@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<script>try{var a=document.documentElement;if(localStorage.getItem('ubuntu-a11y-dark')==='1'){a.classList.add('modo-oscuro')}if(localStorage.getItem('ubuntu-a11y-dys')==='1'){a.classList.add('font-dislexia')}var m=parseInt(localStorage.getItem('ubuntu-a11y-fs'),10);if(m>=12&&m<=24){a.style.fontSize=m+'px'}}catch(e){}</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Red comunitaria | Associació Ubuntu</title>
+<meta name="description" content="La red comunitaria de Ubuntu: entidades, escuelas y equipamientos de la Zona Nord de Barcelona.">
+<link rel="icon" type="image/png" href="../assets/img/logo/logoubuntuv2.png">
+<link rel="stylesheet" href="../assets/fonts/fonts.css">
+<link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#contingut">Saltar al contenido principal</a>
+<div class="a11y-bar" role="toolbar" aria-label="Herramientas de accesibilidad">
+  <div class="container a11y-bar-inner">
+    <span class="a11y-label" aria-hidden="true">Accesibilidad</span>
+    <button type="button" id="a11y-contrast" aria-pressed="false" aria-label="Cambiar entre modo claro y oscuro"><svg class="icon-moon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg><svg class="icon-sun" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><span class="txt-fosc">Oscuro</span><span class="txt-clar">Claro</span></button>
+    <button type="button" id="a11y-font-menys" aria-label="Reducir el tamaño de la letra">A-</button>
+    <button type="button" id="a11y-font-mes" aria-label="Aumentar el tamaño de la letra">A+</button>
+    <button type="button" id="a11y-dislexia" aria-pressed="false">Letra legible</button>
+  <div class="lang-selector" role="group" aria-label="Selector de idioma"><a href="../xarxa-comunitaria.html" class="lang-option" aria-label="Català" title="Català">CA</a><a href="xarxa-comunitaria.html" class="lang-option active" aria-label="Español" title="Español">ES</a><a href="../en/xarxa-comunitaria.html" class="lang-option" aria-label="English" title="English">EN</a></div>
+  </div>
+</div>
+<header class="site-header">
+  <div class="container">
+    <div class="header-inner">
+      <a href="index.html" class="brand" aria-label="Associació Ubuntu - inicio">
+        <img src="../assets/img/logo/logoubuntuv2.png" alt="Logotipo de Associació Educació i Lleure Ubuntu" width="44" height="44">
+        <span><strong>Ubuntu</strong><small>Educació i Lleure</small></span>
+      </a>
+       <nav class="nav-desktop" aria-label="Navegación principal">
+         <ul class="nav-list">
+         <li><a href="index.html">Inicio</a></li>
+             <li><a href="qui-som.html">Quiénes somos</a></li>
+             <li><a href="projectes.html">Proyectos</a></li>
+             <li><a href="voluntariat.html">Voluntariado</a></li>
+             <li><a href="dons.html">Donaciones</a></li>
+             <li><a href="contacte.html">Contacto</a></li>
+             <li><a href="colaboradores.html">Colaboradores</a></li>
+             <li><a href="documentacion.html">Documentación</a></li>
+         </ul>
+         <a class="btn btn-primary" href="dons.html">Apóyanos</a>
+      </nav>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Abrir el menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+   </div>
+ </header>
+ <nav class="mobile-nav" id="mobile-nav" aria-label="Menú móvil">
+   <ul>
+     <li><a href="index.html">Inicio</a></li>
+             <li><a href="qui-som.html">Quiénes somos</a></li>
+             <li><a href="projectes.html">Proyectos</a></li>
+             <li><a href="voluntariat.html">Voluntariado</a></li>
+             <li><a href="dons.html">Donaciones</a></li>
+             <li><a href="contacte.html">Contacto</a></li>
+             <li><a href="colaboradores.html">Colaboradores</a></li>
+             <li><a href="documentacion.html">Documentación</a></li>
+  </ul>
+  <a class="btn btn-primary btn-lg" href="dons.html">Apóyanos</a>
+  <a class="btn btn-secondary btn-lg" href="voluntariat.html">Hazte voluntario/a</a>
+</nav>
+<main id="contingut">
+
+<section class="page-banner" aria-label="Red comunitaria">
+  <div class="hero-bg"><img src="../assets/img/projects/xarxa.webp" alt="Plaza de Ubuntu durante una fiesta comunitaria" loading="lazy"></div>
+  <div class="container">
+    <div class="hero-content">
+      <h1>Red comunitaria</h1>
+      <p class="lead">Tejemos red con las entidades y equipamientos del territorio.</p>
+      <nav class="breadcrumb" aria-label="Migas de pan"><a href="index.html">Inicio</a> / Red comunitaria</nav>
+    </div>
+  </div>
+</section>
+  <section class="section">
+    <div class="container">
+      <blockquote class="quote-block reveal">Mucha gente pequeña, en lugares pequeños, haciendo cosas pequeñas, puede cambiar el mundo.<cite>Eduardo Galeano</cite></blockquote>
+      <div class="mt-4 reveal">
+        <p>Desde Ubuntu creemos que el trabajo comunitario es fundamental: trabajamos de manera coordinada, tanto entre los diferentes proyectos de la asociación como con otras entidades, recursos y equipamientos del barrio y de la ciudad.</p>
+      </div>
+      <div class="section-head center mt-4 reveal">
+        <span class="kicker verd">Trabajo en red</span>
+        <h2>Entidades y equipamientos de la red</h2>
+        <p class="lead">24 recursos del barrio y de la ciudad con los que trabajamos coordinadamente, tal como aparecen en la web original.</p>
+      </div>
+      <div class="filter-chips reveal" id="doc-filtres" role="group" aria-label="Filtra las entidades por ámbito">
+        <button type="button" data-filtre="tots" aria-pressed="true">Todas</button>
+        <button type="button" data-filtre="escoles" aria-pressed="false">Escuelas</button>
+        <button type="button" data-filtre="salut" aria-pressed="false">Salud</button>
+        <button type="button" data-filtre="cultura" aria-pressed="false">Cultura y ocio</button>
+        <button type="button" data-filtre="entitats" aria-pressed="false">Entidades</button>
+        <button type="button" data-filtre="xarxes" aria-pressed="false">Redes</button>
+      </div>
+      <p class="text-center" id="doc-compte" role="status">24 entidades</p>
+      <div class="grid-3 mt-2" id="doc-grau">
+      <article class="card reveal" data-cat="escoles">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-ebm-aqueducte.png" alt="Logotipo de EBM Aqüeducte" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Escuelas</span>
+          <h3>EBM Aqüeducte</h3>
+          <p>Centro educativo con el que trabajamos de manera coordinada.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://ajuntament.barcelona.cat/escolesbressol/ebmaqueducte" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d1" data-cat="escoles">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-ebm-la-muntanya.png" alt="Logotipo de EBM La Muntanya" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Escuelas</span>
+          <h3>EBM La Muntanya</h3>
+          <p>Centro educativo con el que trabajamos de manera coordinada.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://ajuntament.barcelona.cat/escolesbressol/ca/ebmlamuntanya/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d2" data-cat="escoles">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-escola-ferrer-guardia.png" alt="Logotipo de Escola Ferrer i Guàrdia" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Escuelas</span>
+          <h3>Escola Ferrer i Guàrdia</h3>
+          <p>Centro educativo con el que trabajamos de manera coordinada.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="http://www.escolaferreriguardia.com/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal" data-cat="escoles">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-escola-mestre-morera.png" alt="Logotipo de Escola Mestre Morera" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Escuelas</span>
+          <h3>Escola Mestre Morera</h3>
+          <p>Centro educativo con el que trabajamos de manera coordinada.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://agora.xtec.cat/escolamestremorera/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d1" data-cat="escoles">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-institut-picasso.png" alt="Logotipo de Institut Picasso" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Escuelas</span>
+          <h3>Institut Picasso</h3>
+          <p>Centro educativo con el que trabajamos de manera coordinada.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://agora.xtec.cat/iespicasso/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d2" data-cat="cultura">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-casal-joves-zn.png" alt="Logotipo de Casal de Joves de Zona Nord" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Cultura y ocio</span>
+          <h3>Casal de Joves de Zona Nord</h3>
+          <p>Equipamiento de cultura y ocio del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://www.instagram.com/casaldejoveszonanord/?hl=es" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal" data-cat="xarxes">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-comerciants-zn.png" alt="Logotipo de Comerciants de Zona Nord" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Redes</span>
+          <h3>Comerciants de Zona Nord</h3>
+          <p>Red o espacio de coordinación del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://www.facebook.com/comerciantszonanord/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d1" data-cat="xarxes">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-taula-dones.png" alt="Logotipo de Taula comunitària amb veu de dona" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Redes</span>
+          <h3>Taula comunitària amb veu de dona</h3>
+          <p>Red o espacio de coordinación del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://ajuntament.barcelona.cat/noubarris/ca/detall/taula-comunitaria-amb-veu-de-dona_99400576859" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d2" data-cat="entitats">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-fundacio-pare-manel.png" alt="Logotipo de Fundació Pare Manel" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Entidades</span>
+          <h3>Fundació Pare Manel</h3>
+          <p>Entidad social con la que tejemos comunidad en el barrio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://www.paremanel.org/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal" data-cat="xarxes">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-xapo.png" alt="Logotipo de XAPO · Xarxa d'oportunitats" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Redes</span>
+          <h3>XAPO · Xarxa d'oportunitats</h3>
+          <p>Red o espacio de coordinación del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://prezi.com/p/3befoypku_-m/xapo-xarxa-doportunitats-zona-nord/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d1" data-cat="xarxes">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-educa.png" alt="Logotipo de Educa" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Redes</span>
+          <h3>Educa</h3>
+          <p>Red o espacio de coordinación del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://033educa.blogspot.com/p/qui-som.html" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d2" data-cat="xarxes">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-co-xarxa.png" alt="Logotipo de Xarxa 6 · Barcelona Inclusiva" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Redes</span>
+          <h3>Xarxa 6 · Barcelona Inclusiva</h3>
+          <p>Red o espacio de coordinación del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://www.barcelona.cat/barcelonainclusiva/ca/xarxa6.html" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal" data-cat="salut">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-eaia.png" alt="Logotipo de EAIA Nou Barris" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Salud</span>
+          <h3>EAIA Nou Barris</h3>
+          <p>Servicio de salud y atención con el que trabajamos en red.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://guia.barcelona.cat/es/detall/equip-d-atencio-a-la-infancia-i-adolescencia-nou-barris_92140161052.html" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d1" data-cat="escoles">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-ietn.png" alt="Logotipo de Institut Escola Trinitat Nova" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Escuelas</span>
+          <h3>Institut Escola Trinitat Nova</h3>
+          <p>Centro educativo con el que trabajamos de manera coordinada.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://agora.xtec.cat/ietn/projecte-educatiu/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d2" data-cat="salut">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-cdiap.png" alt="Logotipo de CDIAP Nou Barris" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Salud</span>
+          <h3>CDIAP Nou Barris</h3>
+          <p>Servicio de salud y atención con el que trabajamos en red.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://guia.barcelona.cat/es/detall/centre-de-desenvolupament-infantil-i-atencio-precoc-eipi-nou-barris_98048092646.html" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal" data-cat="entitats">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-fedaia.png" alt="Logotipo de FEDAIA" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Entidades</span>
+          <h3>FEDAIA</h3>
+          <p>Entidad social con la que tejemos comunidad en el barrio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://fedaia.org/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d1" data-cat="entitats">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-ventijol.png" alt="Logotipo de Ventijol" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Entidades</span>
+          <h3>Ventijol</h3>
+          <p>Entidad social con la que tejemos comunidad en el barrio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://ventijol.cat/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d2" data-cat="cultura">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-biblioteca-zn.png" alt="Logotipo de Biblioteca Zona Nord" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Cultura y ocio</span>
+          <h3>Biblioteca Zona Nord</h3>
+          <p>Equipamiento de cultura y ocio del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://ajuntament.barcelona.cat/biblioteques/bibzonanord/ca" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal" data-cat="cultura">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-centre-civic-zn.png" alt="Logotipo de Centre Cívic Zona Nord" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Cultura y ocio</span>
+          <h3>Centre Cívic Zona Nord</h3>
+          <p>Equipamiento de cultura y ocio del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://ajuntament.barcelona.cat/ccivics/zonanord" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d1" data-cat="entitats">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-fundacio-ramon-bonet.png" alt="Logotipo de Fundació Ramon Martí Bonet" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Entidades</span>
+          <h3>Fundació Ramon Martí Bonet</h3>
+          <p>Entidad social con la que tejemos comunidad en el barrio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://fundacioramonmartibonet.org/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d2" data-cat="salut">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-assir.png" alt="Logotipo de ASSIR Barcelona" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Salud</span>
+          <h3>ASSIR Barcelona</h3>
+          <p>Servicio de salud y atención con el que trabajamos en red.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://assirbarcelonaics.wordpress.com/on-som/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal" data-cat="escoles">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-educarts.png" alt="Logotipo de Educarts · Escola Ferrer i Guàrdia" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Escuelas</span>
+          <h3>Educarts · Escola Ferrer i Guàrdia</h3>
+          <p>Centro educativo con el que trabajamos de manera coordinada.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://agora.xtec.cat/ceip-ferreriguardia/projectes/educarts/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d1" data-cat="cultura">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-ateneu-meridiana.png" alt="Logotipo de Ateneu de Fabricació de Ciutat Meridiana" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Cultura y ocio</span>
+          <h3>Ateneu de Fabricació de Ciutat Meridiana</h3>
+          <p>Equipamiento de cultura y ocio del territorio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://ajuntament.barcelona.cat/ateneusdefabricacio/es/ateneos-de-fabricacion/ateneo-ciutat-meridiana" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      <article class="card reveal d2" data-cat="entitats">
+        <div class="card-media card-media--logo"><img src="../assets/img/xarxa/xarxa-9barris-acull.png" alt="Logotipo de 9 Barris Acull" loading="lazy"></div>
+        <div class="card-body">
+          <span class="card-tag">Entidades</span>
+          <h3>9 Barris Acull</h3>
+          <p>Entidad social con la que tejemos comunidad en el barrio.</p>
+          <div class="doc-actions">
+            <a class="btn btn-secondary btn-doc" href="https://9bacull.org/es/" target="_blank" rel="noopener">Visita la web</a>
+          </div>
+        </div>
+      </article>
+      </div>
+      <div class="mt-4 text-center reveal">
+        <a class="btn btn-primary" href="dons.html">Apoya la red comunitaria</a>
+      </div>
+    </div>
+  </section>
+    <script>
+    (function () {
+      var grup = document.getElementById('doc-filtres');
+      if (!grup) return;
+      var botons = grup.querySelectorAll('button');
+      var targetes = document.querySelectorAll('#doc-grau > article');
+      var compte = document.getElementById('doc-compte');
+      function aplica(filtre) {
+        var n = 0;
+        targetes.forEach(function (t) {
+          var ok = filtre === 'tots' || t.getAttribute('data-cat') === filtre;
+          t.hidden = !ok;
+          if (ok) n++;
+        });
+        if (compte) compte.textContent = n + (n === 1 ? ' entidad' : ' entidades');
+      }
+      botons.forEach(function (b) {
+        b.addEventListener('click', function () {
+          botons.forEach(function (x) { x.setAttribute('aria-pressed', 'false'); });
+          b.setAttribute('aria-pressed', 'true');
+          aplica(b.getAttribute('data-filtre'));
+        });
+      });
+      aplica('tots');
+    })();
+    </script>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h3>Associació Educació i Lleure Ubuntu</h3>
+        <p>«Yo soy porque tú eres». Ocio educativo, acompañamiento familiar y comunidad en el barrio de Ciutat Meridiana desde 2008.</p>
+        <p>Entidad sin ánimo de lucro registrada con el n.º 49677, declarada de utilidad pública (Ley 49/2002).</p>
+        <address style="font-style:normal;">
+          C/ Vallcivera, 24-26 · 08033 Barcelona<br>
+          <a href="mailto:ubuntu@associacioubuntu.org">ubuntu@associacioubuntu.org</a><br>
+          <a href="tel:+34620015846">+34 620 01 58 46</a>
+         </address>
+       </div>
+       <div>
+         <h3>Enlaces rápidos</h3>
+         <ul>
+           <li><a href="qui-som.html">Quiénes somos</a></li>
+           <li><a href="projectes.html">Proyectos</a></li>
+           <li><a href="voluntariat.html">Voluntariado y prácticas</a></li>
+           <li><a href="dons.html">Donaciones y socios</a></li>
+           <li><a href="contacte.html">Contacto</a></li>
+           <li><a href="memories-anuals.html">Memorias y revista</a></li>
+           <li><a href="colaboradores.html">Colaboradores</a></li>
+           <li><a href="documentacion.html">Documentación</a></li>
+         </ul>
+       </div>
+       <div>
+         <h3>Proyectos</h3>
+         <ul>
+          <li><a href="cau.html">CAU</a></li>
+          <li><a href="centre-obert.html">Centre Obert</a></li>
+          <li><a href="trampoli.html">Trampolí</a></li>
+          <li><a href="espiral.html">Espiral</a></li>
+          <li><a href="belombe.html">Belombe</a></li>
+          <li><a href="metanoia.html">Metanoia</a></li>
+          <li><a href="xarxa-comunitaria.html">Red comunitaria</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Tu ayuda importa</h3>
+        <div class="footer-cta">
+          <p>Con tu donativo, más niños y niñas de la Zona Nord tendrán ocio educativo cada semana.</p>
+          <a class="btn btn-white btn-primary" style="background:#fff;color:var(--vermell-fosc);" href="dons.html">Apóyanos</a>
+        </div>
+        <h3 class="mt-3">Síguenos</h3>
+        
+<div class="footer-social">
+  <a href="https://www.facebook.com/associacioubuntu" aria-label="Facebook de Associació Ubuntu" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+  <a href="https://www.instagram.com/associacioubuntu" aria-label="Instagram de Associació Ubuntu" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
+  <a href="canal-de-youtube.html" aria-label="Canal de YouTube de Associació Ubuntu"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19C0 8.07 0 12 0 12s0 3.93.5 5.81a3.02 3.02 0 0 0 2.12 2.14c1.88.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14C24 15.93 24 12 24 12s0-3.93-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z"/></svg></a>
+</div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Associació Educació i Lleure Ubuntu</span>
+      <span class="registro">Registro de asociaciones n.º 49677</span>
+      <span>
+        <a href="politica-privacitat.html">Privacidad</a> ·
+        <a href="aviso-legal.html">Aviso legal</a> ·
+        <a href="politica-cookies.html">Cookies</a> ·
+        <a href="accessibilitat.html">Accesibilidad</a>
+      </span>
+    </div>
+  </div>
+</footer>
+<div class="cookie-notice" id="cookieNotice" role="dialog" aria-label="Aviso de cookies" style="display:none;position:fixed;bottom:1rem;left:1rem;right:1rem;z-index:70;background:#241B12;color:#fff;border-radius:14px;padding:1rem 1.3rem;max-width:640px;margin-inline:auto;box-shadow:0 10px 30px rgba(0,0,0,.35);">
+  <p style="margin:0 0 .7rem;font-size:.9rem;">Este sitio web utiliza cookies técnicas para mejorar tu experiencia. Puedes leer la <a href="politica-cookies.html" style="color:var(--groc);">política de cookies</a>.</p>
+  <button class="cookie-btn btn" style="min-height:40px;background:var(--groc);color:#3A2400;border:0;font-weight:700;cursor:pointer;">De acuerdo</button>
+</div>
+<script src="../assets/js/main.js" defer></script>
+<!-- REVISAR TRADUCCIÓN: es -->
+</body>
+</html>

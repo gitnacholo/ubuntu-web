@@ -213,4 +213,12 @@ El rediseño cumple con todas las especificaciones, mantenido el estilo moderno,
 - **IMPACTE**: xifres en targetes de vidre amb icona, comptadors conservats i correcció de 4 a **6 projectes**; cinta mòbil (`marquee`) amb paraules clau en bucle CSS i `aria-hidden`.
 - **Projectes**: `grid-3` amb les 6 targetes (mateixes imatges i textos que `projectes.html`); titular «Sis projectes, una mateixa tribu».
 - **CSS**: `.scroll-cue`, `.manifesto*`, `.valor*`, `.impact-*`, `.marquee*` a `assets/css/styles.css`, compatibles amb mode fosc i `prefers-reduced-motion`.
+
+## 16. Versió multidioma CA/ES/EN (2026-10-09)
+
+- **Estructura**: `renew001/` (català) + `renew001/es/` + `renew001/en/` (22 pàgines cadascuna; `butlleti-ubuntu.html` s'omet per petició i resta intacta en català).
+- **Mètode**: extracció de 2945 segments (862 únics) a glosari, traducció ES+EN amb el nom de l'entitat i projectes intactes, i reconstrucció amb rutes `../assets/...`, `lang` correcte i selector `CA/ES/EN` (píndoles de text) a la barra d'accessibilitat de les 66 pàgines.
+- **Marques**: cada fitxer ES/EN porta `<!-- REVISAR TRADUCCIÓN: es/en -->` al final; 2 frases dubtoses amb `<!-- REVISAR TRADUCCIÓN -->` inline (metanoia).
+- **Kit**: scripts i memòria de traducció a `renew001/_build/i18n/` (regenerable: `missing` → `gen-trans` → `build_all.py` → `verify_i18n.py`).
+- **Verificació**: 0 fallos (selector ×66, `lang`, rutes, enllaços interns resolts en cada idioma).
 - **Correcció (2026-10-08)**: la cinta mòbil (`marquee`) es va substituir per una franja estàtica de píndoles (`.word-strip` amb `.word-pill`): mateixes paraules clau, efecte hover, sense animacions ni buits; elimina `.marquee*` i `@keyframes cinta` del CSS.

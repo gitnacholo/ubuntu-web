@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<script>try{var a=document.documentElement;if(localStorage.getItem('ubuntu-a11y-dark')==='1'){a.classList.add('modo-oscuro')}if(localStorage.getItem('ubuntu-a11y-dys')==='1'){a.classList.add('font-dislexia')}var m=parseInt(localStorage.getItem('ubuntu-a11y-fs'),10);if(m>=12&&m<=24){a.style.fontSize=m+'px'}}catch(e){}</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belombe | Associació Ubuntu</title>
+    <meta name="description" content="Proyecto Teixim Vincles de Associació Educació i Lleure Ubuntu.">
+    <link rel="icon" type="image/png" href="../assets/img/logo/logoubuntuv2.png">
+    <link rel="stylesheet" href="../assets/fonts/fonts.css">
+    <link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+<body>
+    <a class="skip-link" href="#contingut">Saltar al contenido principal</a>
+<div class="a11y-bar" role="toolbar" aria-label="Herramientas de accesibilidad">
+  <div class="container a11y-bar-inner">
+    <span class="a11y-label" aria-hidden="true">Accesibilidad</span>
+    <button type="button" id="a11y-contrast" aria-pressed="false" aria-label="Cambiar entre modo claro y oscuro"><svg class="icon-moon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg><svg class="icon-sun" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><span class="txt-fosc">Oscuro</span><span class="txt-clar">Claro</span></button>
+    <button type="button" id="a11y-font-menys" aria-label="Reducir el tamaño de la letra">A-</button>
+    <button type="button" id="a11y-font-mes" aria-label="Aumentar el tamaño de la letra">A+</button>
+    <button type="button" id="a11y-dislexia" aria-pressed="false">Letra legible</button>
+  <div class="lang-selector" role="group" aria-label="Selector de idioma"><a href="../belombe.html" class="lang-option" aria-label="Català" title="Català">CA</a><a href="belombe.html" class="lang-option active" aria-label="Español" title="Español">ES</a><a href="../en/belombe.html" class="lang-option" aria-label="English" title="English">EN</a></div>
+  </div>
+</div>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-inner">
+                <a href="index.html" class="brand" aria-label="Associació Ubuntu - inicio">
+                    <img src="../assets/img/logo/logoubuntuv2.png" alt="Logotipo de Associació Educació i Lleure Ubuntu" width="44" height="44">
+                    <span><strong>Ubuntu</strong><small>Educació i Lleure</small></span>
+                </a>
+                <nav class="nav-desktop" aria-label="Navegación principal">
+                    <ul class="nav-list">
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="qui-som.html">Quiénes somos</a></li>
+                        <li><a href="projectes.html">Proyectos</a></li>
+                        <li><a href="voluntariat.html">Voluntariado</a></li>
+                        <li><a href="dons.html">Donaciones</a></li>
+                        <li><a href="contacte.html">Contacto</a></li>
+                        <li><a href="colaboradores.html">Colaboradores</a></li>
+                        <li><a href="documentacion.html">Documentación</a></li>
+                    </ul>
+                    <a class="btn btn-primary" href="dons.html">Apóyanos</a>
+                </nav>
+                <button class="nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Abrir el menú">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Menú móvil">
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="qui-som.html">Quiénes somos</a></li>
+            <li><a href="projectes.html">Proyectos</a></li>
+            <li><a href="voluntariat.html">Voluntariado</a></li>
+            <li><a href="dons.html">Donaciones</a></li>
+            <li><a href="contacte.html">Contacto</a></li>
+            <li><a href="colaboradores.html">Colaboradores</a></li>
+            <li><a href="documentacion.html">Documentación</a></li>
+        </ul>
+        <a class="btn btn-primary btn-lg" href="dons.html">Apóyanos</a>
+        <a class="btn btn-secondary btn-lg" href="voluntariat.html">Hazte voluntario/a</a>
+    </nav>
+    <main id="contingut">
+        <section class="page-banner" aria-label="Belombe">
+            <div class="hero-bg"><img src="../assets/img/heroes/hero-3.webp" alt="Jóvenes de Ubuntu en una actividad comunitaria" loading="lazy"></div>
+            <div class="container">
+                <div class="hero-content">
+                    <h1>Belombe</h1>
+                    <p class="lead">Proyecto Teixim Vincles: espacios de acompañamiento materno-infantil para potenciar el bienestar de las familias desde el inicio de la crianza.</p>
+                    <nav class="breadcrumb" aria-label="Migas de pan"><a href="index.html">Inicio</a> / Proyectos / Belombe</nav>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <div class="container grid-2" style="align-items:center;">
+                <div class="reveal">
+                    <span class="kicker" style="display:inline-block;font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--vermell);background:var(--vermell-suau);padding:.35em .9em;border-radius:999px;margin-bottom:var(--sp-2);">Proyecto</span>
+                    <h2>Espiral: Teixim Vincles</h2>
+                    <p>Proyecto Teixim Vincles: espacios de acompañamiento materno-infantil para potenciar el bienestar de las familias desde el inicio de la crianza.</p>
+                    <p>Ofrece espacios de acompañamiento familiar donde niños, niñas y madres/padres pueden construir vínculos seguros, reforzar los existentes y desarrollar habilidades para una vida saludable.</p>
+                    <ul>
+                        <li>Atención psicológica y logopédica para familias con niños y niñas de 0 a 6 años</li>
+                        <li>Grupos de acompañamiento enfocados en la relación materno-infantil</li>
+                        <li>Formación para profesionales y voluntarios del área de la infancia</li>
+                        <li>Colaboración con centros educativos y de salud</li>
+                    </ul>
+                    <a class="btn btn-primary" href="mailto:ubuntu@associacioubuntu.org?subject=Consulta sobre projecte Belombe">Contactar para consultar</a>
+                </div>
+                <div class="reveal d1">
+                    <img src="../assets/img/gallery/gallery-2.webp" alt="Jóvenes participantes en una actividad del proyecto Belombe" loading="lazy" style="border-radius:var(--radi-lg);box-shadow:var(--sombra);">
+                </div>
+            </div>
+        </section>
+        
+        <section class="section bg-crema">
+            <div class="container">
+                <div class="section-head center reveal">
+                    <span class="kicker verd">Nuestro impacto</span>
+                    <h2>Resultados del proyecto</h2>
+                </div>
+                
+                <div class="stats-grid reveal">
+                    <div class="stat">
+                        <div class="num" data-count="200" data-suffix="+">0</div>
+                        <div class="lbl">familias atendidas anualmente</div>
+                    </div>
+                    <div class="stat d1">
+                        <div class="num" data-count="15" data-suffix="+">0</div>
+                        <div class="lbl">espacios de acompañamiento activos</div>
+                    </div>
+                    <div class="stat d2">
+                        <div class="num" data-count="50" data-suffix="+">0</div>
+                        <div class="lbl">profesionales formados</div>
+                    </div>
+                    <div class="stat d3">
+                        <div class="num" data-count="10" data-suffix="+">0</div>
+                        <div class="lbl">años creando vínculos seguros</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <div class="container">
+                <div class="section-head center reveal">
+                    <span class="kicker">Hazlo posible</span>
+                    <h2>Cómo ayudar</h2>
+                </div>
+                
+                <div class="grid-2 reveal">
+                    <article class="card">
+                        <div class="card-body">
+                            <h3>Voluntariado</h3>
+                            <p>Únete al equipo de profesionales y voluntarios que hacen posible el proyecto Espiral.</p>
+                            <a class="btn btn-secondary" href="voluntariat.html">Información sobre voluntariado</a>
+                        </div>
+                    </article>
+                    
+                    <article class="card reveal d1">
+                        <div class="card-body">
+                            <h3>Donación</h3>
+                            <p>Cada donativo ayuda a expandir los espacios de acompañamiento a más familias del barrio.</p>
+                            <a class="btn btn-secondary" href="dons.html">Haz una donación</a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div>
+                    <h3>Associació Educació i Lleure Ubuntu</h3>
+                    <p>«Yo soy porque tú eres». Ocio educativo, acompañamiento familiar y comunidad en el barrio de Ciutat Meridiana desde 2008.</p>
+                    <p>Entidad sin ánimo de lucro registrada con el n.º 49677, declarada de utilidad pública (Ley 49/2002).</p>
+                    <address style="font-style:normal;">
+                      C/ Vallcivera, 24-26 · 08033 Barcelona<br>
+                      <a href="mailto:ubuntu@associacioubuntu.org">ubuntu@associacioubuntu.org</a><br>
+                      <a href="tel:+34620015846">+34 620 01 58 46</a>
+                    </address>
+                </div>
+                <div>
+                    <h3>Enlaces rápidos</h3>
+                    <ul>
+                        <li><a href="qui-som.html">Quiénes somos</a></li>
+                        <li><a href="projectes.html">Proyectos</a></li>
+                        <li><a href="voluntariat.html">Voluntariado y prácticas</a></li>
+                        <li><a href="dons.html">Donaciones y socios</a></li>
+                        <li><a href="contacte.html">Contacto</a></li>
+                        <li><a href="memories-anuals.html">Memorias y revista</a></li>
+                        <li><a href="colaboradores.html">Colaboradores</a></li>
+                        <li><a href="documentacion.html">Documentación</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Proyectos</h3>
+                    <ul>
+                        <li><a href="cau.html">CAU</a></li>
+                        <li><a href="centre-obert.html">Centre Obert</a></li>
+                        <li><a href="trampoli.html">Trampolí</a></li>
+                        <li><a href="espiral.html">Espiral</a></li>
+                        <li><a href="belombe.html">Belombe</a></li>
+                        <li><a href="metanoia.html">Metanoia</a></li>
+                        <li><a href="xarxa-comunitaria.html">Red comunitaria</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Tu ayuda importa</h3>
+                    <div class="footer-cta">
+                        <p>Con tu donativo, más niños y niñas de la Zona Nord tendrán ocio educativo cada semana.</p>
+                        <a class="btn btn-white btn-primary" style="background:#fff;color:var(--vermell-fosc);" href="dons.html">Apóyanos</a>
+                    </div>
+                    <h3 class="mt-3">Síguenos</h3>
+                    
+                    <div class="footer-social">
+                        <a href="https://www.facebook.com/associacioubuntu" aria-label="Facebook de Associació Ubuntu" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+                        <a href="https://www.instagram.com/associacioubuntu" aria-label="Instagram de Associació Ubuntu" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
+                        <a href="canal-de-youtube.html" aria-label="Canal de YouTube de Associació Ubuntu"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19C0 8.07 0 12 0 12s0 3.93.5 5.81a3.02 3.02 0 0 0 2.12 2.14c1.88.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14C24 15.93 24 12 24 12s0-3.93-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z"/></svg></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <span>© 2026 Associació Educació i Lleure Ubuntu</span>
+                <span class="registro">Registro de asociaciones n.º 49677</span>
+                <span>
+                    <a href="politica-privacitat.html">Privacidad</a> ·
+                    <a href="aviso-legal.html">Aviso legal</a> ·
+                    <a href="politica-cookies.html">Cookies</a> ·
+                    <a href="accessibilitat.html">Accesibilidad</a>
+                </span>
+            </div>
+        </div>
+    </footer>
+    <div class="cookie-notice" id="cookieNotice" role="dialog" aria-label="Aviso de cookies" style="display:none;position:fixed;bottom:1rem;left:1rem;right:1rem;z-index:70;background:#241B12;color:#fff;border-radius:14px;padding:1rem 1.3rem;max-width:640px;margin-inline:auto;box-shadow:0 10px 30px rgba(0,0,0,.35);">
+        <p style="margin:0 0 .7rem;font-size:.9rem;">Este sitio web utiliza cookies técnicas para mejorar tu experiencia. Puedes leer la <a href="politica-cookies.html" style="color:var(--groc);">política de cookies</a>.</p>
+        <button class="cookie-btn btn" style="min-height:40px;background:var(--groc);color:#3A2400;border:0;font-weight:700;cursor:pointer;">De acuerdo</button>
+    </div>
+    <script src="../assets/js/main.js" defer></script>
+<!-- REVISAR TRADUCCIÓN: es -->
+</body>
+</html>

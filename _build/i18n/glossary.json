@@ -1,0 +1,9318 @@
+{
+ "Accessibilitat | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:meta/title"
+  ]
+ },
+ "El nostre compromís amb un web accessible.": {
+  "n": 2,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:meta",
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Salta al contingut principal": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:body/a",
+   "acol-3.html:text:body/a",
+   "aviso-legal.html:text:body/a"
+  ]
+ },
+ "Eines d'accessibilitat": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:div",
+   "acol-3.html:attr:div",
+   "aviso-legal.html:attr:div"
+  ]
+ },
+ "Accessibilitat": {
+  "n": 46,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/span",
+   "accessibilitat.html:attr:section",
+   "accessibilitat.html:text:div/h1"
+  ]
+ },
+ "Canvia entre mode clar i fosc": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:button",
+   "acol-3.html:attr:button",
+   "aviso-legal.html:attr:button"
+  ]
+ },
+ "Fosc": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:button/span",
+   "acol-3.html:text:button/span",
+   "aviso-legal.html:text:button/span"
+  ]
+ },
+ "Clar": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:button/span",
+   "acol-3.html:text:button/span",
+   "aviso-legal.html:text:button/span"
+  ]
+ },
+ "Redueix la mida de la lletra": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:button",
+   "acol-3.html:attr:button",
+   "aviso-legal.html:attr:button"
+  ]
+ },
+ "A-": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/button",
+   "acol-3.html:text:div/button",
+   "aviso-legal.html:text:div/button"
+  ]
+ },
+ "Augmenta la mida de la lletra": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:button",
+   "acol-3.html:attr:button",
+   "aviso-legal.html:attr:button"
+  ]
+ },
+ "A+": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/button",
+   "acol-3.html:text:div/button",
+   "aviso-legal.html:text:div/button"
+  ]
+ },
+ "Lletra llegible": {
+  "n": 23,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/button",
+   "accessibilitat.html:text:p/strong",
+   "acol-3.html:text:div/button"
+  ]
+ },
+ "Associació Ubuntu - inici": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:a",
+   "acol-3.html:attr:a",
+   "aviso-legal.html:attr:a"
+  ]
+ },
+ "Logo de l'Associació Educació i Lleure Ubuntu": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:img",
+   "acol-3.html:attr:img",
+   "aviso-legal.html:attr:img"
+  ]
+ },
+ "Ubuntu": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:span/strong",
+   "acol-3.html:text:span/strong",
+   "aviso-legal.html:text:span/strong"
+  ]
+ },
+ "Educació i Lleure": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:span/small",
+   "acol-3.html:text:span/small",
+   "aviso-legal.html:text:span/small"
+  ]
+ },
+ "Navegació principal": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:nav",
+   "acol-3.html:attr:nav",
+   "aviso-legal.html:attr:nav"
+  ]
+ },
+ "Inici": {
+  "n": 65,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:nav/a"
+  ]
+ },
+ "Qui som": {
+  "n": 70,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a"
+  ]
+ },
+ "Projectes": {
+  "n": 91,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a"
+  ]
+ },
+ "Voluntariat": {
+  "n": 49,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a"
+  ]
+ },
+ "Donacions": {
+  "n": 45,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a"
+  ]
+ },
+ "Contacte": {
+  "n": 73,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a"
+  ]
+ },
+ "Colaboradors": {
+  "n": 66,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a"
+  ]
+ },
+ "Documentació": {
+  "n": 68,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a",
+   "accessibilitat.html:text:li/a"
+  ]
+ },
+ "Dona suport": {
+  "n": 68,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:nav/a",
+   "accessibilitat.html:text:nav/a",
+   "accessibilitat.html:text:div/a"
+  ]
+ },
+ "Obre el menú": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:button",
+   "acol-3.html:attr:button",
+   "aviso-legal.html:attr:button"
+  ]
+ },
+ "Menú mòbil": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:nav",
+   "acol-3.html:attr:nav",
+   "aviso-legal.html:attr:nav"
+  ]
+ },
+ "Fes-te voluntari/a": {
+  "n": 28,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:nav/a",
+   "acol-3.html:text:nav/a",
+   "aviso-legal.html:text:nav/a"
+  ]
+ },
+ "Famílies i participants d'Ubuntu": {
+  "n": 4,
+  "pages": [
+   "accessibilitat.html",
+   "aviso-legal.html",
+   "politica-cookies.html",
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:img",
+   "aviso-legal.html:attr:img",
+   "politica-cookies.html:attr:img"
+  ]
+ },
+ "Migues de pa": {
+  "n": 21,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:nav",
+   "acol-3.html:attr:nav",
+   "aviso-legal.html:attr:nav"
+  ]
+ },
+ " / Accessibilitat": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/nav"
+  ]
+ },
+ "Compromís d'accessibilitat": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "L'Associació Educació i Lleure Ubuntu s'ha compromès a fer el seu lloc web accessible, d'acord amb el Reial Decret 1112/2018, de 7 de setembre, sobre accessibilitat dels llocs web i aplicacions mòbils del sector públic, i amb la norma UNE-EN 301549 v3.2.1 (equivalent a les WCAG 2.1 nivell AA).": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Eines d'accessibilitat d'aquest web": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "A la part superior de cada pàgina trobaràs la barra «Accessibilitat» amb: ": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Fosc / Clar": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:p/strong"
+  ]
+ },
+ " (mode fosc amb icona de lluna i mode clar amb icona de sol), ": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "A− / A+": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:p/strong"
+  ]
+ },
+ " (mida de la lletra, entre 12 i 24 px) i ": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ " (tipografia i espaiat que faciliten la lectura). Les teves preferències es guarden al navegador i es mantenen en navegar per les pàgines. A més, totes les imatges inclouen text alternatiu descriptiu (": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "alt": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:p/code"
+  ]
+ },
+ ").": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Estat de compliment": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "Aquest lloc web és parcialment compliant amb el Reial Decret 1112/2018 a causa de les excepcions i la manca de conformitat en determinats aspectes que es detallen a continuació.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Contingut no accessible": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "Falta de conformitat amb la norma": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "Alguns elements interactius podrien no ser totalment accessibles per teclat.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:ul/li"
+  ]
+ },
+ "Alguns vídeos incrustats (YouTube) poden no tenir subtítols o audiodescripció.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:ul/li"
+  ]
+ },
+ "Algunes imatges antigues poden no tenir text alternatiu adequat.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:ul/li"
+  ]
+ },
+ "El contrast de colors en algunes seccions podria no complir el mínim requerit (4.5:1).": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:ul/li"
+  ]
+ },
+ "Càrrega desmesurada": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "No s'aplica.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "El contingut no entra dins de l'àmbit de la legislació aplicable": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "Els continguts de tercers (vídeos de YouTube, mapes, etc.) que no estan desenvolupats per l'Associació Ubuntu.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Preparació de la declaració d'accessibilitat": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "Aquesta declaració va ser preparada el 6 d'octubre de 2026 .": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "El mètode utilitzat per preparar la declaració ha sido una autoavaluació realitzada per l'equip tècnic de l'Associació.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Observacions i dades de contacte": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "Podeu comunicar-nos qualsevol requisit de la clàusula 9.2 del Reial Decret 1112/2018 (informació accessible sobre el contingut que estigui exclòs de l'àmbit d'aplicació, o que estigui exempt de complimentar els requisits d'accessibilitat per imposar una càrrega desmesurada) mitjançant el correu electrònic ubuntu@associacioubuntu.org .": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Procediment d'aplicació": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "Si després de presentar la comunicació, aquesta ha estat rebutjada, o la resposta no és satisfactòria, la persona interessada pot iniciar una reclamació davant de l'òrgan competent en matèria d'accessibilitat.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Contingut opcional": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3"
+  ]
+ },
+ "L'últim revisió d'accessibilitat es va realitzar el 6 d'octubre de 2026 .": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "El lloc web està dissenyat per funcionar correctament en els navegadors actuals: Chrome, Firefox, Safari, Edge.": {
+  "n": 1,
+  "pages": [
+   "accessibilitat.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p"
+  ]
+ },
+ "Associació Educació i Lleure Ubuntu": {
+  "n": 24,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3",
+   "acol-3.html:text:div/h3",
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "“Jo sóc perquè tu ets”. Oci educatiu, acompanyament familiar i comunitat\n        al barri de Ciutat Meridiana des de l'any 2008.": {
+  "n": 18,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "contacte.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p",
+   "acol-3.html:text:div/p",
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "Entitat sense ànim de lucre registrada amb el nº 49677, declarada d'utilitat pública (Llei 49/2002).": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p",
+   "acol-3.html:text:div/p",
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "\n          C/ Vallcivera, 24-26 · 08033 Barcelona": {
+  "n": 18,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "contacte.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/address",
+   "acol-3.html:text:div/address",
+   "aviso-legal.html:text:div/address"
+  ]
+ },
+ "ubuntu@associacioubuntu.org": {
+  "n": 25,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:br/a",
+   "acol-3.html:text:br/a",
+   "aviso-legal.html:text:br/a"
+  ]
+ },
+ "Enllaços ràpids": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3",
+   "acol-3.html:text:div/h3",
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "Voluntariat i pràctiques": {
+  "n": 24,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "Donacions i socis": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "Memòries i revista": {
+  "n": 24,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "CAU": {
+  "n": 26,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "Centre Obert": {
+  "n": 26,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "Trampolí": {
+  "n": 26,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "Espiral": {
+  "n": 27,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "Belombe": {
+  "n": 26,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "Metanoia": {
+  "n": 26,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "Xarxa comunitària": {
+  "n": 25,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:li/a",
+   "acol-3.html:text:li/a",
+   "aviso-legal.html:text:li/a"
+  ]
+ },
+ "La teva ajuda importa": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3",
+   "acol-3.html:text:div/h3",
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "Amb el teu donatiu, més infants de la Zona Nord tindran ocio educatiu cada setmana.": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p",
+   "acol-3.html:text:div/p",
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "Segueix-nos": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/h3",
+   "acol-3.html:text:div/h3",
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "Facebook de l'Associació Ubuntu": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:a",
+   "acol-3.html:attr:a",
+   "aviso-legal.html:attr:a"
+  ]
+ },
+ "Instagram de l'Associació Ubuntu": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:a",
+   "acol-3.html:attr:a",
+   "aviso-legal.html:attr:a"
+  ]
+ },
+ "Canal de YouTube de l'Associació Ubuntu": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:a",
+   "acol-3.html:attr:a",
+   "aviso-legal.html:attr:a"
+  ]
+ },
+ "© 2026 Associació Educació i Lleure Ubuntu": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/span",
+   "acol-3.html:text:div/span",
+   "aviso-legal.html:text:div/span"
+  ]
+ },
+ "Registre d'associacions nº 49677": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/span",
+   "acol-3.html:text:div/span",
+   "aviso-legal.html:text:div/span"
+  ]
+ },
+ "Privacitat": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:span/a",
+   "acol-3.html:text:span/a",
+   "aviso-legal.html:text:span/a"
+  ]
+ },
+ " ·\n        ": {
+  "n": 54,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "contacte.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/span",
+   "accessibilitat.html:text:div/span",
+   "accessibilitat.html:text:div/span"
+  ]
+ },
+ "Avís legal": {
+  "n": 24,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:span/a",
+   "acol-3.html:text:span/a",
+   "aviso-legal.html:attr:section"
+  ]
+ },
+ "Cookies": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:span/a",
+   "acol-3.html:text:span/a",
+   "aviso-legal.html:text:span/a"
+  ]
+ },
+ "Avís de cookies": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:attr:div",
+   "acol-3.html:attr:div",
+   "aviso-legal.html:attr:div"
+  ]
+ },
+ "Aquest web utilitza cookies tècniques per millorar la teva experiència. Pots llegir la ": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/p",
+   "acol-3.html:text:div/p",
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "política de cookies": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:p/a",
+   "acol-3.html:text:p/a",
+   "aviso-legal.html:text:p/a"
+  ]
+ },
+ "D'acord": {
+  "n": 22,
+  "pages": [
+   "accessibilitat.html",
+   "acol-3.html",
+   "aviso-legal.html",
+   "belombe.html",
+   "canal-de-youtube.html",
+   "cau.html",
+   "centre-obert.html",
+   "colaboradores.html",
+   "contacte.html",
+   "documentacion.html",
+   "dons.html",
+   "espiral.html",
+   "index.html",
+   "memories-anuals.html",
+   "metanoia.html",
+   "politica-cookies.html",
+   "politica-privacitat.html",
+   "projectes.html",
+   "qui-som.html",
+   "trampoli.html",
+   "voluntariat.html",
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "accessibilitat.html:text:div/button",
+   "acol-3.html:text:div/button",
+   "aviso-legal.html:text:div/button"
+  ]
+ },
+ "ACOL | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:meta/title"
+  ]
+ },
+ "Programa d'inserció laboral per a persones migrades en situació administrativa irregular.": {
+  "n": 2,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:attr:meta",
+   "acol-3.html:text:div/p"
+  ]
+ },
+ "ACOL · Treball i formació": {
+  "n": 3,
+  "pages": [
+   "acol-3.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "acol-3.html:attr:section",
+   "acol-3.html:text:div/h1",
+   "projectes.html:text:div/h3"
+  ]
+ },
+ "Cartell del programa ACOL 2022-2023": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:attr:img"
+  ]
+ },
+ " / ACOL": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/nav"
+  ]
+ },
+ "Inserció laboral": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/span"
+  ]
+ },
+ "Programa Treball i Formació – Línia ACOL": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/h2"
+  ]
+ },
+ "Contractes de 12 mesos a jornada completa per a persones migrades en situació administrativa irregular que compleixin els requisits d'arrelament social.": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/p"
+  ]
+ },
+ "Descripció del programa": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/h3"
+  ]
+ },
+ "Programa destinat a les persones migrades en situació administrativa irregular que compleixin els requisits per obtenir una autorització de residència temporal per circumstàncies excepcionals d'arrelament social i puguin subscriure un contracte de treball; contractes de 12 mesos de durada a jornada completa.": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/p"
+  ]
+ },
+ "Requisits que han de complir les persones destinatàries:": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/h3"
+  ]
+ },
+ "No ser persones ciutadanes de la Unió Europea, de l'Espai Econòmic Europeu o de Suïssa o familiar de ciutadans d'aquests països els quals els és d'aplicació el règim de ciutadà de la Unió Europea.": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Acreditar la permanència continuada a Espanya durant almenys dos anys anteriors a la data de la sol·licitud.": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "No tenir antecedents penals a Espanya ni en els països anteriors de residència per delictes previstos en l'ordenament jurídic espanyol.": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Disposar d'una oferta de contracte de treball d'una durada mínima de 12 mesos, a jornada completa, o bé dos o més contracts que sumin la jornada completa.": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Complir altres requisits específics del programa.": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Objectius": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/h3"
+  ]
+ },
+ "Fomentar la inserció laboral de persones migrades en situació de vulnerabilitat administrativa": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Facilitar l'obtenció de l'autorització de residència per arrelament social": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Acompanyar en el procés de regularització administrativa i laboral": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Promoure la autonomia personal i la integració social": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Serveis que s'ofereixen": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/h3"
+  ]
+ },
+ "Assessorament jurídic i administratiu": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Acompanyament en la recerca activa de feina": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Formació prelaboral i ocupacional": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Suport psicosocial i educatiu": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Mediació amb empreses i entitats": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:ul/li"
+  ]
+ },
+ "Contacta'ns per l'ACOL": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/a"
+  ]
+ },
+ "Veure documentació relacionada": {
+  "n": 1,
+  "pages": [
+   "acol-3.html"
+  ],
+  "ctx": [
+   "acol-3.html:text:div/a"
+  ]
+ },
+ "Avís legal | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:meta/title"
+  ]
+ },
+ "Informació legal del lloc web.": {
+  "n": 2,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:attr:meta",
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ " / Avís legal": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/nav"
+  ]
+ },
+ "1. Dades de l'Associació": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "https://www.associacioubuntu.org/ és un producte de l' Associació Educació i Lleure Ubuntu .": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "En compliment de l'article 10 de la Llei 34/2002, d'11 de juliol, de Serveis de la Societat de la Informació i Comerç Electrònic (LSSI), a continuació s'exposen les dades identificatives del responsable del present lloc web:": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "Nom del lloc web: https://www.associacioubuntu.org/": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:ul/li"
+  ]
+ },
+ "Denominació social/Nom: Associació Educació i Lleure Ubuntu": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:ul/li"
+  ]
+ },
+ "NIF: G-65902439": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:ul/li"
+  ]
+ },
+ "Domicili social/Domicili: C/ Pedraforca, 3. 08033": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:ul/li"
+  ]
+ },
+ "Correu electrònic de contacte: ubuntu@associacioubuntu.org": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:ul/li"
+  ]
+ },
+ "Núm. de telèfon: 931 46 52 65": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:ul/li"
+  ]
+ },
+ "2. Objecte": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "Aquest avís legal té per objecte establir les condicions generals que regulen l'accés i l'ús general del present lloc web per part de tots els usuaris, de manera que l'accés i l'ús del mateix implica necessàriament el sotmetiment i l'acceptació de les condicions generals incloses en aquest Avís Legal.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "Per aquest motiu, l' Associació Educació i Lleure Ubuntu recomana que l'usuari les llegeixi detingudament cada vegada que vulgui entrar i fer ús de la pàgina web esmentada, ja que aquestes poden patir algun canvi. En aquest sentit, l' Associació Educació i Lleure Ubuntu es reserva la facultat de realitzar, en qualsevol moment i sense necessitat de previ avís, qualsevol modificació o actualització dels continguts i serveis, de les presents condicions generals d'accés i ús i, en general, de quants elements integrin el disseny i configuració del present lloc web.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "3. Ús": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "En cas que l'usuari procedeixi al seu registre per a la contractació o adquisició d'un servei ofert al present lloc web, l'usuari serà responsable d'aportar informació veraç i lícita. Si com a conseqüència del registre, es dotés l'usuari d'una contrasenya, aquest es compromet a fer-ne un ús diligent i a mantenir en secret la contrasenya per accedir a aquests serveis.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "En conseqüència, els usuaris són responsables de l'adequada custòdia i confidencialitat de qualssevol identificadors i/o contrasenyes que, si escau, li siguin subministrades per l' Associació Educació i Lleure Ubuntu , i es comprometen a no cedir el seu ús a tercers, ja sigui temporal o permanent, ni a permetre l'accés a persones alienes.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "L'usuari es compromet a no utilitzar la informació, activitats, productes o serveis que l' Associació Educació i Lleure Ubuntu posa a la seva disposició per desenvolupar activitats contràries a les lleis, a la moral o a l'ordre públic i, en general, a fer-ne un ús conforme a les presents condicions generals.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "4. Propietat intel·lectual": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "Tots els continguts de la pàgina web, entenent per aquests a títol merament enunciatiu els textos, imatges, gràfics, imatges, icones, tecnologia, programari, enllaços i altres continguts audiovisuals o sonors, així com el seu disseny gràfic i codis font (d'ara endavant, \"els CONTINGUTS\"), són propietat intel·lectual i industrial de l' Associació Educació i Lleure Ubuntu o, si escau, de tercers.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "Queda prohibida la reproducció, transformació, distribució, comunicació pública, posada a disposició interactiva, extracció, reutilització, reenviament o la utilització de qualsevol naturalesa, per qualsevol mitjà o procediment, de qualsevol dels CONTINGUTS, llevat dels casos en què estigui legalment permès o sigui autoritzat expressament i per escrit pel titular dels corresponents drets.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "5. Enllaços al present portal": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "L'usuari que vulgui introduir un enllaç des de la seva pròpia pàgina web al present portal haurà d'estar prèviament autoritzat i per escrit per part de l' Associació Educació i Lleure Ubuntu .": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "6. Responsabilitats i garanties": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "L' Associació Educació i Lleure Ubuntu no garanteix la licitud, fiabilitat, utilitat, veracitat o exactitud dels serveis o de la informació que es prestin a través del present lloc web.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "Tot i això, l' Associació Educació i Lleure Ubuntu declara que ha adoptat totes les mesures necessàries, dins de les seves possibilitats i de l'estat de la tecnologia, per garantir el funcionament del present lloc web i evitar l'existència i transmissió de virus i altres components nocius als usuaris.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "7. Legislació i jurisdicció aplicable": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/h3"
+  ]
+ },
+ "Les relacions establertes entre l' Associació Educació i Lleure Ubuntu i l'usuari es regiran pel que disposa la normativa vigent sobre la legislació aplicable i la jurisdicció competent. La llei espanyola serà l'única aplicable. Per als casos en què la normativa prevegi la possibilitat a les parts de sotmetre's expressament a un furs, l' Associació Educació i Lleure Ubuntu i l'usuari, amb renúncia expressa a qualsevol altre furs que els pogués correspondre, se sotmeten als jutjats i tribunals de la ciutat de Barcelona.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "Associació Educació i Lleure Ubuntu. Tots els drets reservats. 2008.": {
+  "n": 1,
+  "pages": [
+   "aviso-legal.html"
+  ],
+  "ctx": [
+   "aviso-legal.html:text:div/p"
+  ]
+ },
+ "Belombe | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:meta/title"
+  ]
+ },
+ "Projecte Teixim Vincles de l'Associació Educació i Lleure Ubuntu.": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:attr:meta"
+  ]
+ },
+ "Joves d'Ubuntu en una activitat comunitària": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:attr:img"
+  ]
+ },
+ "Projecte Teixim Vincles: espais d'acompanyament matern-infantil per potenciar el benestar de les famílies des de l'inici de la criança.": {
+  "n": 3,
+  "pages": [
+   "belombe.html",
+   "index.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/p",
+   "belombe.html:text:div/p",
+   "index.html:text:div/p"
+  ]
+ },
+ " / Projectes / Belombe": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/nav"
+  ]
+ },
+ "Projecte": {
+  "n": 2,
+  "pages": [
+   "belombe.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/span",
+   "metanoia.html:text:div/span"
+  ]
+ },
+ "Espiral: Teixim Vincles": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/h2"
+  ]
+ },
+ "Ofereix espais d'acompanyament familiar on infants i mares/padres poden construir vincles segurs, reforçar els existents i desenvolupar habilitats per a una vida saludable.": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/p"
+  ]
+ },
+ "Atenció psicològica i logopèdica per a famílies amb infants de 0 a 6 anys": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:ul/li"
+  ]
+ },
+ "Grups d'acompanyament enfocats en la relació matern-infantil": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:ul/li"
+  ]
+ },
+ "Formació per a professionals i voluntaris de l'àrea de la infància": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:ul/li"
+  ]
+ },
+ "Col·laboració amb centres educatius i de salut": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:ul/li"
+  ]
+ },
+ "Contactar per consultar": {
+  "n": 2,
+  "pages": [
+   "belombe.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/a",
+   "metanoia.html:text:p/a"
+  ]
+ },
+ "Joves participants en una activitat del projecte Belombe": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:attr:img"
+  ]
+ },
+ "El nostre impacte": {
+  "n": 3,
+  "pages": [
+   "belombe.html",
+   "index.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/span",
+   "index.html:attr:section",
+   "index.html:text:div/span"
+  ]
+ },
+ "Resultats del projecte": {
+  "n": 2,
+  "pages": [
+   "belombe.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/h2",
+   "metanoia.html:text:div/h2"
+  ]
+ },
+ "famílies ateses anualment": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/div"
+  ]
+ },
+ "espais d'acompanyament actius": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/div"
+  ]
+ },
+ "professionals formats": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/div"
+  ]
+ },
+ "anys creant vincles segurs": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/div"
+  ]
+ },
+ "Fes-ho possible": {
+  "n": 2,
+  "pages": [
+   "belombe.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/span",
+   "metanoia.html:text:div/h2"
+  ]
+ },
+ "Com ajudar": {
+  "n": 2,
+  "pages": [
+   "belombe.html",
+   "index.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/h2",
+   "index.html:attr:section"
+  ]
+ },
+ "Uneix-te a l'equip de professionals i voluntaris que fan possible el projecte Espiral.": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/p"
+  ]
+ },
+ "Informació sobre voluntariat": {
+  "n": 2,
+  "pages": [
+   "belombe.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/a",
+   "metanoia.html:text:div/a"
+  ]
+ },
+ "Donació": {
+  "n": 2,
+  "pages": [
+   "belombe.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/h3",
+   "metanoia.html:text:div/h3"
+  ]
+ },
+ "Cada donatiu ajuda a expandir els espais d'acompanyament a més famílies del barri.": {
+  "n": 1,
+  "pages": [
+   "belombe.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/p"
+  ]
+ },
+ "Fes una donació": {
+  "n": 2,
+  "pages": [
+   "belombe.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/a",
+   "metanoia.html:text:div/a"
+  ]
+ },
+ "“Jo sóc perquè tu ets”. Oci educatiu, acompanyament familiar i comunitat\n                    al barri de Ciutat Meridiana des de l'any 2008.": {
+  "n": 4,
+  "pages": [
+   "belombe.html",
+   "colaboradores.html",
+   "documentacion.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/p",
+   "colaboradores.html:text:div/p",
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "\n                      C/ Vallcivera, 24-26 · 08033 Barcelona": {
+  "n": 4,
+  "pages": [
+   "belombe.html",
+   "colaboradores.html",
+   "documentacion.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/address",
+   "colaboradores.html:text:div/address",
+   "documentacion.html:text:div/address"
+  ]
+ },
+ " ·\n                    ": {
+  "n": 12,
+  "pages": [
+   "belombe.html",
+   "colaboradores.html",
+   "documentacion.html",
+   "metanoia.html"
+  ],
+  "ctx": [
+   "belombe.html:text:div/span",
+   "belombe.html:text:div/span",
+   "belombe.html:text:div/span"
+  ]
+ },
+ "Canal de YouTube | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:text:meta/title"
+  ]
+ },
+ "Vídeos de l'Associació Educació i Lleure Ubuntu.": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:attr:meta"
+  ]
+ },
+ "Canal de YouTube": {
+  "n": 2,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:attr:section",
+   "canal-de-youtube.html:text:div/h1"
+  ]
+ },
+ "Imatge d'una activitat d'Ubuntu": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:attr:img"
+  ]
+ },
+ "Els vídeos de la comunitat Ubuntu.": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:text:div/p"
+  ]
+ },
+ " / Canal de YouTube": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:text:div/nav"
+  ]
+ },
+ "Vídeo": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:text:div/span"
+  ]
+ },
+ "XIULA — el vídeo de la comunitat": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:text:div/h2"
+  ]
+ },
+ "XIULA - Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:attr:iframe"
+  ]
+ },
+ "Veure més vídeos al nostre canal": {
+  "n": 1,
+  "pages": [
+   "canal-de-youtube.html"
+  ],
+  "ctx": [
+   "canal-de-youtube.html:text:div/a"
+  ]
+ },
+ "CAU | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:meta/title"
+  ]
+ },
+ "Espai de lleure educatiu per a infants de 6 a 12 anys, els dissabtes a la tarda.": {
+  "n": 2,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:attr:meta",
+   "cau.html:text:div/p"
+  ]
+ },
+ "Infants participant en activitats del CAU": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:attr:img"
+  ]
+ },
+ " / Projectes / CAU": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/nav"
+  ]
+ },
+ "Qui som?": {
+  "n": 4,
+  "pages": [
+   "cau.html",
+   "centre-obert.html",
+   "espiral.html",
+   "trampoli.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/h3",
+   "centre-obert.html:text:div/h3",
+   "espiral.html:text:div/h3"
+  ]
+ },
+ "El cau de la Ubuntu és un espai de lleure educatiu on infants i famílies participen de diverses activitats a través de la convivència, l'estima i l'acompanyament.": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/p"
+  ]
+ },
+ "Què fem?": {
+  "n": 4,
+  "pages": [
+   "cau.html",
+   "centre-obert.html",
+   "espiral.html",
+   "trampoli.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/h3",
+   "centre-obert.html:text:div/h3",
+   "espiral.html:text:div/h3"
+  ]
+ },
+ "En aquest espai es pretén portar a terme una activitat de lleure oferint als infants un espai de joc i aprenentatge on es reforça la seva autoestima , les seves habilitats , coneixements i valors .": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/p"
+  ]
+ },
+ "Quan ho fem?": {
+  "n": 4,
+  "pages": [
+   "cau.html",
+   "centre-obert.html",
+   "espiral.html",
+   "trampoli.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/h3",
+   "centre-obert.html:text:div/h3",
+   "espiral.html:text:div/h3"
+  ]
+ },
+ "L'activitat es fa els dissabtes de 16 h a 18:30 h": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/p"
+  ]
+ },
+ "On ho fem?": {
+  "n": 4,
+  "pages": [
+   "cau.html",
+   "centre-obert.html",
+   "espiral.html",
+   "trampoli.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/h3",
+   "centre-obert.html:text:div/h3",
+   "espiral.html:text:div/h3"
+  ]
+ },
+ "A l' Escola Ferrer i Guàrdia . C/Pedraforca, 3.": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/p"
+  ]
+ },
+ "A qui va dirigit?": {
+  "n": 4,
+  "pages": [
+   "cau.html",
+   "centre-obert.html",
+   "espiral.html",
+   "trampoli.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/h3",
+   "centre-obert.html:text:div/h3",
+   "espiral.html:text:div/h3"
+  ]
+ },
+ "A infants de 6 a 12 anys del territori.": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/p"
+  ]
+ },
+ "Email: cauubuntuzonanord@gmail.com": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/p"
+  ]
+ },
+ "Telèfon: +34 722 22 51 65": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:p/br"
+  ]
+ },
+ "Apoya el CAU amb un donatiu": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/a"
+  ]
+ },
+ "Fes-te voluntari/a al CAU": {
+  "n": 1,
+  "pages": [
+   "cau.html"
+  ],
+  "ctx": [
+   "cau.html:text:div/a"
+  ]
+ },
+ "Centre Obert | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:meta/title"
+  ]
+ },
+ "Lleure educatiu i reforç escolar per a infants i adolescents de 6 a 16 anys.": {
+  "n": 2,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:attr:meta",
+   "centre-obert.html:text:div/p"
+  ]
+ },
+ "Reforç escolar al Centre Obert": {
+  "n": 2,
+  "pages": [
+   "centre-obert.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "centre-obert.html:attr:img",
+   "projectes.html:attr:img"
+  ]
+ },
+ " / Projectes / Centre Obert": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:div/nav"
+  ]
+ },
+ "El Centre Obert Ubuntu som un espai de lleure educatiu i de reforç escolar, que permet als infants, adolescents i les seves famílies gaudir d'un espai pensat per a ells i elles i ajustat a les seves necessitats.": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:div/p"
+  ]
+ },
+ "El projecte es basa en un enfocament d'educació integral, amb una metodologia activa, on els infants i adolescents i també, les famílies, puguin créixer en els valors democràtics, d'equitat i de respecte per la diversitat. D'aquesta manera, reforcem els coneixements teòrics, les competències i les habilitats personals, per afavorir el seu desenvolupament integral, millorar les seves condicions socials i potenciar la interrelació entre les diferents cultures que viuen al barri. Això es tradueix en possibilitar la trajectòria dels infants i joves en un marc global normalitzat personalitzat des de l'esperit crític i la consciència col·lectiva.": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:div/p"
+  ]
+ },
+ "De dilluns a divendres de 16:30 h a 19:30 h durant el curs escolar.": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:div/p"
+  ]
+ },
+ "Al nostre local a la Zona Nord de Nou Barris.": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:div/p"
+  ]
+ },
+ "Actualment, comptem amb 50 places per a infants i adolescents (i les seves famílies) de 6 a 16 anys de la Zona Nord de Nou Barris. Ens organitzem en cinc grups d'edat, amb una educadora-referent per grup, més una coordinadora donant suport. Hi ha uns espais pensats per treballar en petit grup, i d'altres per interactuar amb tots els grups alhora, potenciant així l' esperit Ubuntu i el treball intergeneracional. També comptem amb l'ajuda inestimable de diferents voluntaris que donen suport a cada grup.": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:div/p"
+  ]
+ },
+ "Coordinació C.O.: casalinfantilubuntu@gmail.com": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:div/p"
+  ]
+ },
+ "Educadors/es C.O.: centreobertubuntu@gmail.com": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:p/br"
+  ]
+ },
+ "Telèfon C.O. Infància: 681 688 661": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:br/br"
+  ]
+ },
+ "Telèfon C.O. Adolescents: 722 232 780": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:br/br"
+  ]
+ },
+ "Apoya el Centre Obert": {
+  "n": 1,
+  "pages": [
+   "centre-obert.html"
+  ],
+  "ctx": [
+   "centre-obert.html:text:div/a"
+  ]
+ },
+ "Col·laboradors | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:meta/title"
+  ]
+ },
+ "Entitats i empreses que sostenen l'Associació Educació i Lleure Ubuntu.": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:meta"
+  ]
+ },
+ "Col·laboradors": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:section"
+  ]
+ },
+ "Equip d'Ubuntu en una sortida comunitària": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Entitats Col·laboradores": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:div/h1"
+  ]
+ },
+ "Els nostres agradeïments profunds a les empreses i entitats que creen amb el nostre projecte de transformació comunitària.": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:div/p"
+  ]
+ },
+ " / Colaboradors": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:div/nav"
+  ]
+ },
+ "Col·laboració": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:div/span"
+  ]
+ },
+ "Sostenidors de la tribu": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:div/h2"
+  ]
+ },
+ "Amb el suport d'aquestes entitats i empreses, Ubuntu continua creixent i touchant més vides a Ciutat Meridiana.": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:div/p"
+  ]
+ },
+ "XIULA": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Etnia Caixa d'Entitats Socials": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "La Caixa": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Acció Planetària": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Es Paiauditiu": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Associació Aqueducte": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Generalitat de Catalunya": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "ARA": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "ICM Versió 3 Claim": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Xamfra Centre de Música i Escena del Raval": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Associació de Harmonicització Social": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "La Granja": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Capibola": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Ajuntament de Barcelona": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Martí Bonet": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "FPM": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "RMC Sport": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Alfasoni": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "Mafars": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:attr:img"
+  ]
+ },
+ "La comunitat gràcies a totes aquestes entitats i empreses que creuen en la importància d'un Futur Col·lectiu.": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:div/p"
+  ]
+ },
+ "Fes-te soci/a o fes una donació": {
+  "n": 1,
+  "pages": [
+   "colaboradores.html"
+  ],
+  "ctx": [
+   "colaboradores.html:text:div/a"
+  ]
+ },
+ "Contacte | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:meta/title"
+  ]
+ },
+ "Contacta amb l'Associació Educació i Lleure Ubuntu: adreces, correus, telèfons i formulari.": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:attr:meta"
+  ]
+ },
+ "Participants d'Ubuntu en una sortida comunitària": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:attr:img"
+  ]
+ },
+ "Vine al local, escriu-nos o truca'ns: la porta de la tribu sempre és oberta.": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/p"
+  ]
+ },
+ " / Contacte": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/nav"
+  ]
+ },
+ "Parlem?": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/h2"
+  ]
+ },
+ "Nom": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/label"
+  ]
+ },
+ "Correu electrònic": {
+  "n": 2,
+  "pages": [
+   "contacte.html",
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/label",
+   "voluntariat.html:text:div/label"
+  ]
+ },
+ "Assumpte": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/label"
+  ]
+ },
+ "Informació general": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:select/option"
+  ]
+ },
+ "Vull fer un donatiu": {
+  "n": 2,
+  "pages": [
+   "contacte.html",
+   "dons.html"
+  ],
+  "ctx": [
+   "contacte.html:text:select/option",
+   "dons.html:text:div/a"
+  ]
+ },
+ "Vull fer de voluntari/ària": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:select/option"
+  ]
+ },
+ "Pràctiques acadèmiques": {
+  "n": 2,
+  "pages": [
+   "contacte.html",
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "contacte.html:text:select/option",
+   "voluntariat.html:text:select/option"
+  ]
+ },
+ "Famílies: inscripcions": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:select/option"
+  ]
+ },
+ "Missatge": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/label"
+  ]
+ },
+ "Enviar missatge": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/button"
+  ]
+ },
+ "Maqueta visual: el formulari no envia dades en la versió estàtica.\n              Escriviu a ": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/p"
+  ]
+ },
+ "C/ Vallcivera, 24-26 · 08033 Barcelona": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/p"
+  ]
+ },
+ " · ": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:br/br"
+  ]
+ },
+ "CAU · Centre Obert · Trampolí": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/h3"
+  ]
+ },
+ "Escola Ferrer i Guàrdia · C/ Pedraforca, 3, 08033": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/p"
+  ]
+ },
+ "\n            CAU: cauubuntuzonanord@gmail.com": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:p/br"
+  ]
+ },
+ "\n            Centre Obert: centreobertubuntu@gmail.com · 681 68 86 61 / 722 23 27 80": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:br/br"
+  ]
+ },
+ "\n            Trampolí: projecte.trampoli@gmail.com": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:br/br"
+  ]
+ },
+ "Local Ubuntu (C/ Vallcivera, 24) i EBM Aqüeducte · EBM La Muntanya (C/ Sant Feliu de Codines, 4)": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:div/p"
+  ]
+ },
+ "\n            espaieducatiu.espiral@gmail.com": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:text:p/br"
+  ]
+ },
+ "Mapa: C/ Vallcivera 24-26, Barcelona": {
+  "n": 1,
+  "pages": [
+   "contacte.html"
+  ],
+  "ctx": [
+   "contacte.html:attr:iframe"
+  ]
+ },
+ "Documentació | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:meta/title"
+  ]
+ },
+ "Estatuts, conveni, plans, memòries, revista i butlletins de l'Associació Educació i Lleure Ubuntu en PDF.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:meta"
+  ]
+ },
+ "Equip d'Ubuntu en una reunió de treball": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Els documents oficials de l'entitat, en PDF: visualitza'ls o descarrega'ls.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ " / Documentació": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/nav"
+  ]
+ },
+ "Transparència": {
+  "n": 6,
+  "pages": [
+   "documentacion.html",
+   "dons.html",
+   "memories-anuals.html",
+   "qui-som.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/span",
+   "dons.html:attr:section",
+   "dons.html:text:div/span"
+  ]
+ },
+ "Documents oficials de l'entitat": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h2"
+  ]
+ },
+ "Estatuts, conveni, plans, memòries, revista i butlletins tal com apareixen a la web original, allotjats en local per a una lectura ràpida i accessible.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "Filtra els documents per categoria": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:div"
+  ]
+ },
+ "Tots": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/button"
+  ]
+ },
+ "Entitat": {
+  "n": 2,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/button",
+   "documentacion.html:text:div/span"
+  ]
+ },
+ "Laboral": {
+  "n": 3,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/button",
+   "documentacion.html:text:div/span",
+   "documentacion.html:text:div/span"
+  ]
+ },
+ "Igualtat i protecció": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/button"
+  ]
+ },
+ "Formació": {
+  "n": 3,
+  "pages": [
+   "documentacion.html",
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/button",
+   "documentacion.html:text:div/span",
+   "voluntariat.html:text:div/h3"
+  ]
+ },
+ "Memòries": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/button"
+  ]
+ },
+ "Butlletí": {
+  "n": 23,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/button",
+   "documentacion.html:text:div/span",
+   "documentacion.html:text:div/span"
+  ]
+ },
+ "Revista": {
+  "n": 6,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/button",
+   "documentacion.html:text:div/span",
+   "documentacion.html:text:div/span"
+  ]
+ },
+ "43 documents": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "PDF": {
+  "n": 32,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/span",
+   "documentacion.html:text:span/span",
+   "documentacion.html:text:div/span"
+  ]
+ },
+ "0,7 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Estatuts de l'Associació": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Normes fonamentals de l'entitat: finalitats, òrgans de govern i funcionament intern.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "Visualitza": {
+  "n": 39,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/a",
+   "documentacion.html:text:div/a",
+   "documentacion.html:text:div/a"
+  ]
+ },
+ "Descarrega": {
+  "n": 39,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/a",
+   "documentacion.html:text:div/a",
+   "documentacion.html:text:div/a"
+  ]
+ },
+ "0,9 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Conveni col·lectiu 2024": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Marc laboral de referència per a l'equip professional de l'entitat.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "1,4 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Igualtat": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/span"
+  ]
+ },
+ "Pla d'igualtat Ubuntu": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Document firmat amb les mesures per garantir la igualtat d'oportunitats entre dones i homes.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "2,8 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Protecció": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/span"
+  ]
+ },
+ "Política «Kare Yara»": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Política de protecció d'infants i adolescents: entorns segurs en totes les activitats.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "0,4 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Protocol d'assetjament laboral": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Procediment firmat de prevenció i actuació davant l'assetjament en l'entorn de treball.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "2,1 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Pla de formació «Meraki»": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Pla de formació contínua de l'equip professional per al curs 2025-2026.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "4,6 MB": {
+  "n": 2,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span",
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Memòria": {
+  "n": 10,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/span",
+   "documentacion.html:text:div/span",
+   "documentacion.html:text:div/span"
+  ]
+ },
+ "Memòria general 2025": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2025.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "5,6 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Memòria general 2024": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2024.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "Memòria general 2023": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2023.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "4,1 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Memòria general 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2022.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "2,6 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Memòria general 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2021.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "0,8 MB": {
+  "n": 2,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span",
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Memòria general 2020": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2020.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "3,5 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Memòria general 2019": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2019.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "1,2 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Memòria general 2018": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2018.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "Memòria general 2017": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2017.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "6,0 MB": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:span/span"
+  ]
+ },
+ "Memòria general 2016": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Activitats, resultats i impacte de l'entitat durant l'any 2016.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "Portada de la Revista Ubuntu de desembre de 2025": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Desembre 2025": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Publicació trimestral amb el més destacat del període.": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "Portada de la Revista Ubuntu (setembre 2024)": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Setembre 2024": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Es llegeix en línia al flipbook original (enllaç extern).": {
+  "n": 4,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/p",
+   "documentacion.html:text:div/p",
+   "documentacion.html:text:div/p"
+  ]
+ },
+ "Obre el flipbook": {
+  "n": 4,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/a",
+   "documentacion.html:text:div/a",
+   "documentacion.html:text:div/a"
+  ]
+ },
+ "Portada de la Revista Ubuntu (desembre 2024)": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Desembre 2024": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada de la Revista Ubuntu (abril 2025)": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Abril 2025": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada de la Revista Ubuntu (juliol 2025)": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Juliol 2025": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de desembre 2023": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Desembre 2023": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de octubre 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Octubre 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de setembre 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Setembre 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de juliol 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Juliol 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de juny 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Juny 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de maig 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Maig 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de abril 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Abril 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de març 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Març 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de febrer 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Febrer 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de gener 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Gener 2022": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de desembre 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Desembre 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de novembre 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Novembre 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de octubre 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Octubre 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de setembre 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Setembre 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de juliol 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Juliol 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de juny 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Juny 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de maig 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Maig 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de abril 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Abril 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de març 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Març 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de febrer 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Febrer 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de gener 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Gener 2021": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Portada del butlletí de desembre 2020": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:attr:img"
+  ]
+ },
+ "Desembre 2020": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/h3"
+  ]
+ },
+ "Demana un document per correu": {
+  "n": 1,
+  "pages": [
+   "documentacion.html"
+  ],
+  "ctx": [
+   "documentacion.html:text:div/a"
+  ]
+ },
+ "Donacions | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:meta/title"
+  ]
+ },
+ "Dona a l'Associació Ubuntu: transferència, Bizum 02962 o fes-te soci. Desgravacions fiscals segons la Llei 49/2002.": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:attr:meta"
+  ]
+ },
+ "Dona a Ubuntu": {
+  "n": 2,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:attr:section",
+   "dons.html:text:div/h1"
+  ]
+ },
+ "Infants d'Ubuntu durant una colònia d'estiu": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:attr:img"
+  ]
+ },
+ "La teva aportació fa possible el treball amb infants, joves i famílies de la Zona Nord.": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ " / Donacions": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/nav"
+  ]
+ },
+ "Cada euro es transforma en oportunitats": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/h2"
+  ]
+ },
+ "Amb el teu donatiu fem possible l'oci educatiu dels dissabtes, el reforç escolar de cada tarda,\n        l'atenció psicològica a les escoles i l'acompanyament de les famílies amb nadons.": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "Per transferència bancària": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/h3"
+  ]
+ },
+ "ES37 2100 3307 4921 0089 2027": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:p/strong"
+  ]
+ },
+ "CaixaBank · Associació Educació i Lleure Ubuntu": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:br/span"
+  ]
+ },
+ "Amb Bizum": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/h3"
+  ]
+ },
+ "Obre Bizum → «Fer donatiu» → escriu el codi ": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ " → indica l'import → confirma.\n            El codi identifica l'Associació Ubuntu com a destinatària.": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "Fes-te soci o sòcia": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/h3"
+  ]
+ },
+ "Amb la teva quota (la decides tu; referència: ": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "50 € anuals": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:p/strong"
+  ]
+ },
+ ") col·labores amb\n            els projectes, reps el butlletí i participes de l'Assemblea General.\n            Escriu-nos per donar-te d'alta.": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "Infografia de donacions i desgravacions fiscals d'Ubuntu": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:attr:img"
+  ]
+ },
+ "Les donacions es desgraven: fins al 80% de l'IRPF en els primers 150 €\n          i deduccions de fins al 45% amb donacions recurrents (Llei 49/2002, entitat d'utilitat pública).": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:img/p"
+  ]
+ },
+ "Altres maneres d'ajudar": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:attr:section"
+  ]
+ },
+ "Més maneres d'ajudar": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/span"
+  ]
+ },
+ "No tot és diners": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/h2"
+  ]
+ },
+ "Donacions en espècie": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/h3"
+  ]
+ },
+ "Recollim joguines, roba, menjar i productes de la llar per a les famílies. Posa't en contacte i et passem a buscar.": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "El teu temps setmanal val or als projectes. ": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "Difusió": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/h3"
+  ]
+ },
+ "Comparteix els nostres projectes a les xarxes i al teu entorn. Fer-nos conèixer també és ajudar.": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "On van els teus diners": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/h2"
+  ]
+ },
+ "Entitat sense ànim de lucre ": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "nº 49677": {
+  "n": 2,
+  "pages": [
+   "dons.html",
+   "qui-som.html"
+  ],
+  "ctx": [
+   "dons.html:text:p/strong",
+   "qui-som.html:text:p/strong"
+  ]
+ },
+ ", declarada d'utilitat pública (Llei 49/2002).\n        Rendim comptes cada any: consulta les ": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "memòries anuals": {
+  "n": 2,
+  "pages": [
+   "dons.html",
+   "qui-som.html"
+  ],
+  "ctx": [
+   "dons.html:text:p/a",
+   "qui-som.html:text:p/a"
+  ]
+ },
+ ",\n        el ": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "butlletí": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:p/a"
+  ]
+ },
+ " i la ": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:div/p"
+  ]
+ },
+ "documentació": {
+  "n": 1,
+  "pages": [
+   "dons.html"
+  ],
+  "ctx": [
+   "dons.html:text:p/a"
+  ]
+ },
+ "Espiral | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:meta/title"
+  ]
+ },
+ "Acompanyament matern-infantil (0-6 anys): el projecte Teixim Vincles.": {
+  "n": 2,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:attr:meta",
+   "espiral.html:text:div/p"
+  ]
+ },
+ "Espai d'acompanyament familiar Espiral": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:attr:img"
+  ]
+ },
+ " / Projectes / Espiral": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/nav"
+  ]
+ },
+ "\"Sostinc que les dones necessitem i mereixem una tribu sencera que ens empari i ens cuidi, per a estar en condicions d'emparar i criar un nen. La solitud i l'aïllament són grans depredadors de les mares amb nens petits. Justament, els homes són part d'aquesta tribu. Necessitem homes que també revisin les seves pròpies històries per a després estar en condicions d'oferir la seva maduresa emocional. Si els homes i les dones que no estan en etapa de criar nens, estiguéssim disponibles afectivament per a sostenir a les mares, el món rodaria amb una altra música.\"": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "Laura Gutman": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "L'Espiral és una associació sense ànim de lucre que el curs 2017-2018 s'uneix a l'Associació Ubuntu per impulsar el projecte Teixim Vincles , amb el suport econòmic de Pla de Barris i en col·laboració amb les Escoles Bressol de la Zona Nord. La finalitat del programa és donar resposta a l'atenció als infants i les seves famílies des del principi de la vida; mirant de detectar i prevenir dinàmiques de risc mitjançant espais de suport a les famílies en la fase inicial de la criança, des de l'inici del procés perinatal (embaràs, part, puerperi, criança).": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "Desenvolupar un projecte on el Vincle és l'eix vertebrador i té una triple intenció:": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "Com ho fem?": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/h3"
+  ]
+ },
+ "Facilitant diversos espais d'acompanyament matern-infantil per potenciar el benestar en els àmbits quotidians dels nuclis familiars.": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "Espais d'acompanyament familiar:": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/h3"
+  ]
+ },
+ "Grups de parla per mares i pares": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:ul/li"
+  ]
+ },
+ "Tallers de porteo i massatge infantil": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:ul/li"
+  ]
+ },
+ "Espais de joc lliure i motricitat": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:ul/li"
+  ]
+ },
+ "Acompanyament en el postpart i lactància": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:ul/li"
+  ]
+ },
+ "Xerrades i formació sobre criança respectuosa": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:ul/li"
+  ]
+ },
+ "Al local de la Ubuntu (C/Vallcivera, 24) i a l' EBM Aqüeducte , principalment.": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "De dilluns a divendres. L'horari varia en funció de l'activitat o espai.": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "A famílies de la Zona Nord, amb alguna criatura entre els 0 i 6 anys .": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "E-mail: espaieducatiu.espiral@gmail.com": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/p"
+  ]
+ },
+ "Apoya Espiral": {
+  "n": 1,
+  "pages": [
+   "espiral.html"
+  ],
+  "ctx": [
+   "espiral.html:text:div/a"
+  ]
+ },
+ "Ubuntu | Associació Educació i Lleure — Ciutat Meridiana": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:meta/title"
+  ]
+ },
+ "Associació Educació i Lleure Ubuntu: oci educatiu, acompanyament familiar i comunitat a Ciutat Meridiana des de 2008. Dona o fes-te voluntari/ària.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:meta"
+  ]
+ },
+ "Presentació": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:section"
+  ]
+ },
+ "Infants jugant amb jocs educatius a una plaça del barri amb les monitores d'Ubuntu": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Ciutat Meridiana · Zona Nord · Barcelona": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span"
+  ]
+ },
+ "Oci educatiu que transforma vides": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h1"
+  ]
+ },
+ "Acompanyem infants, joves i famílies perquè ningú es quedi enrere.\n        “Jo sóc perquè tu ets”: amb el teu suport, la tribu creix.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Entitat sense ànim de lucre nº 49677 · Més de 15 anys al barri · ": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Coneix els projectes": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:p/a"
+  ]
+ },
+ "Desplaça't a la nostra essència": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:a"
+  ]
+ },
+ "La nostra essència": {
+  "n": 2,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:section",
+   "index.html:text:div/span"
+  ]
+ },
+ "«Jo sóc ": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "perquè tu ets": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:p/em"
+  ]
+ },
+ "»": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Per educar un infant, cal tota una tribu. A Ubuntu ho fem possible cada dia amb ": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "convivència": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:p/strong"
+  ]
+ },
+ "estima": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:p/strong"
+  ]
+ },
+ " i ": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "acompanyament": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:p/strong"
+  ]
+ },
+ " al cor de Ciutat Meridiana.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Convivència": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h3"
+  ]
+ },
+ "Espais on infants, joves i famílies es troben i creixen juntes.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Estima": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h3"
+  ]
+ },
+ "Cada infant és únic: l'escoltem, el cuidem i el valorem.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Acompanyament": {
+  "n": 2,
+  "pages": [
+   "index.html",
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h3",
+   "voluntariat.html:text:div/h3"
+  ]
+ },
+ "Al costat de les famílies, del barri i de l'escola, pas a pas.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "La tribu, en xifres vives": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h2"
+  ]
+ },
+ "places d'oci educatiu i reforç escolar al Centre Obert": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/div"
+  ]
+ },
+ "famílies ateses pel projecte Trampolí": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/div"
+  ]
+ },
+ "projectes oberts al barri: del CAU a Metanoia": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/div"
+  ]
+ },
+ "anys creant vincles a Ciutat Meridiana": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/div"
+  ]
+ },
+ "Paraules clau de l'associació": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:ul"
+  ]
+ },
+ "Oci educatiu": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:ul/li"
+  ]
+ },
+ "Tribu": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:ul/li"
+  ]
+ },
+ "Comunitat": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:ul/li"
+  ]
+ },
+ "Ciutat Meridiana": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:ul/li"
+  ]
+ },
+ "Jo sóc perquè tu ets": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:ul/li"
+  ]
+ },
+ "Zona Nord": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:ul/li"
+  ]
+ },
+ "Els nostres projectes": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:section"
+  ]
+ },
+ "Què fem": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span"
+  ]
+ },
+ "Sis projectes, una mateixa tribu": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h2"
+  ]
+ },
+ "Educació en el temps lliure, acompanyament familiar, suport psicològic i xarxa comunitària a la Zona Nord de Nou Barris.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Infants participant en una activitats del CAU, espai de lleure educatiu dels dissabtes": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Dissabtes · 6 a 12 anys": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span"
+  ]
+ },
+ "Espai de lleure educatiu on infants i famílies participen d'activitats a través de la convivència, l'estima i l'acompanyament.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Descobreix el CAU": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/a"
+  ]
+ },
+ "Nens i adolescents fent reforç escolar al Centre Obert d'Ubuntu": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Cada tarda · 6 a 16 anys": {
+  "n": 2,
+  "pages": [
+   "index.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span",
+   "projectes.html:text:div/span"
+  ]
+ },
+ "Lleure educatiu i reforç escolar: 50 places perquè infants i adolescents de la Zona Nord tinguin un espai pensat per a ells.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Descobreix el Centre Obert": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/a"
+  ]
+ },
+ "Sessió d'atenció psicològica i logopèdica del projecte Trampolí": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "A l'escola pública · 3 a 16 anys": {
+  "n": 2,
+  "pages": [
+   "index.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span",
+   "projectes.html:text:div/span"
+  ]
+ },
+ "Atenció psicològica, psicopedagògica i logopèdica a l'abast de tothom, amb més de 300 famílies ateses en una dècada.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Descobreix Trampolí": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/a"
+  ]
+ },
+ "Grup de mares i bebès en un espai d'acompanyament familiar del projecte Espiral": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Famílies · 0 a 6 anys": {
+  "n": 2,
+  "pages": [
+   "index.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span",
+   "projectes.html:text:div/span"
+  ]
+ },
+ "Descobreix Espiral": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/a"
+  ]
+ },
+ "Joves del projecte Belombe en una activitat comunitària": {
+  "n": 2,
+  "pages": [
+   "index.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "index.html:attr:img",
+   "projectes.html:attr:img"
+  ]
+ },
+ "Joves · 12 a 18 anys": {
+  "n": 2,
+  "pages": [
+   "index.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span",
+   "projectes.html:text:div/span"
+  ]
+ },
+ "Acompanyament a joves del barri: referents positius, suport emocional i activitats de lleure que enforteixen l'autoestima.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Descobreix Belombe": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/a"
+  ]
+ },
+ "Adolescents del projecte Metanoia en un taller educatiu": {
+  "n": 2,
+  "pages": [
+   "index.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "index.html:attr:img",
+   "projectes.html:attr:img"
+  ]
+ },
+ "Adolescents · 12 a 16 anys": {
+  "n": 2,
+  "pages": [
+   "index.html",
+   "projectes.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span",
+   "projectes.html:text:div/span"
+  ]
+ },
+ "Educació en el temps lliure per a adolescents: pensament crític, creativitat i participació activa a la comunitat.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Descobreix Metanoia": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/a"
+  ]
+ },
+ "Veure tots els projectes i la xarxa comunitària": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:p/a"
+  ]
+ },
+ "Una associació nascuda del barri": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h2"
+  ]
+ },
+ "L'any 2008 començàvem com un espai de lleure els dissabtes a la tarda a la Zona Nord de\n        Ciutat Meridiana. Vuit anys més tard, veient les necessitats de les famílies del barri,\n        naixia l'Associació Educació i Lleure Ubuntu: “Jo sóc perquè tu ets”.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Som un equip de professionals i voluntàries amb vocació. És gràcies a la comunitat que\n        Ubuntu creix any rere any i arriba a més infants i famílies.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Coneix la nostra història": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/a"
+  ]
+ },
+ "Equip i voluntariat d'Ubuntu durant una sortida comunitària": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Activitats destacades": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:section"
+  ]
+ },
+ "Així som": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span"
+  ]
+ },
+ " Moments que expliquen qui som": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h2"
+  ]
+ },
+ "Activitat d'oci educatiu d'Ubuntu a la Zona Nord": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Infants gaudint d'una sortida d'entitat del barri": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Moment de convivència entre participants i voluntariat": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Taller d'oci educatiu amb infants del barri": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Famílies participants en les activitats comunitàries": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Foto de grup d'infants, joves i voluntariat d'Ubuntu en una sortida": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:attr:img"
+  ]
+ },
+ "Fes-la possible": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/span"
+  ]
+ },
+ "La teva ajuda fa possible que seguim": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/h2"
+  ]
+ },
+ "Cada donatiu es converteix en oci educatiu, reforç escolar, atenció psicològica i acompanyament\n        familiar. I cada voluntària que s'uneix fa la tribu més gran.": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/p"
+  ]
+ },
+ "Uneix-te a l'equip": {
+  "n": 1,
+  "pages": [
+   "index.html"
+  ],
+  "ctx": [
+   "index.html:text:div/a"
+  ]
+ },
+ "Memòries anuals | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:meta/title"
+  ]
+ },
+ "Memòries anuals i revista de l'Associació Ubuntu.": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:attr:meta"
+  ]
+ },
+ "Portada de la memòria 2023": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:attr:img"
+  ]
+ },
+ "Transparència: la feina de cada any, explicada.": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/p"
+  ]
+ },
+ " / Memòries": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/nav"
+  ]
+ },
+ "Memòries i revista Ubuntu": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/h2"
+  ]
+ },
+ "Rendim comptes cada any: consulta les nostres memòries i la revista de la comunitat.": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/p"
+  ]
+ },
+ "Portada de la revista Ubuntu": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:attr:img"
+  ]
+ },
+ "Revista Ubuntu": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/h3"
+  ]
+ },
+ "La revista de la comunitat Ubuntu: projectes, activitats i veus del barri.": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/p"
+  ]
+ },
+ "Portada de la memòria curta 2025": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:attr:img"
+  ]
+ },
+ "Memòria 2025": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/h3"
+  ]
+ },
+ "Resum d'activitats i comptes de l'exercici 2025.": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/p"
+  ]
+ },
+ "Portada de la memòria curta 2024": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:attr:img"
+  ]
+ },
+ "Memòria 2024": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/h3"
+  ]
+ },
+ "Resum d'activitats i comptes de l'exercici 2024.": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/p"
+  ]
+ },
+ "Apoya els nostres projectes": {
+  "n": 1,
+  "pages": [
+   "memories-anuals.html"
+  ],
+  "ctx": [
+   "memories-anuals.html:text:div/a"
+  ]
+ },
+ "Metanoia | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:meta/title"
+  ]
+ },
+ "Projecte d’educació en el temps lliure dels adolescents de l'Associació Educació i Lleure Ubuntu.": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:attr:meta"
+  ]
+ },
+ "Adolescents d'Ubuntu en un taller d'oci educatiu": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:attr:img"
+  ]
+ },
+ "Educació en el temps lliure per a adolescents de 12 a 16 anys, potenciant el pensament crític i la creativitat.": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/p"
+  ]
+ },
+ " / Projectes / Metanoia": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/nav"
+  ]
+ },
+ "Transformem el temps lliure en oportunitat d'aprenentatge": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/h2"
+  ]
+ },
+ "Projecte d’educació en el temps lliure per a adolescents de 12 a 16 anys que fomenta el pensament crític, la creativitat i la tècnica esports, tot participant en la comunitat.\n                    ": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/p"
+  ]
+ },
+ "Desenvolupem activitats basades en la investigació, el projecte personal i el treball col·lectiu, promovent el pensament de metacognició i la reflexió sobre l'aprenentatge.": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:p/p"
+  ]
+ },
+ "Taller de mediació i resolució de conflictes": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:ul/li"
+  ]
+ },
+ "Projectes d'investigació basats en interessos": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:ul/li"
+  ]
+ },
+ "Actividades d'educació artística i cultural": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:ul/li"
+  ]
+ },
+ "Tècniques esportives i activitats de lleure actiu": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:ul/li"
+  ]
+ },
+ "Adolescents d'Ubuntu en una activitat comunitària de Metanoia": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:attr:img"
+  ]
+ },
+ "Dades d'impacte": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/span"
+  ]
+ },
+ "adolescents atesos anualment": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/div"
+  ]
+ },
+ "projectes d'investigació completats": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/div"
+  ]
+ },
+ "dones comunitàries generades": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/div"
+  ]
+ },
+ "anys transformant el temps lliure": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/div"
+  ]
+ },
+ "Col·labora amb nosaltres": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/span"
+  ]
+ },
+ "Uneix-te a l'equip de monitors d'educació en el temps lliure i forma part de la transformació comunitària.": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/p"
+  ]
+ },
+ "Cada donatiu ajuda a desenvolupar activitats educatives i formatives per a més adolescents.": {
+  "n": 1,
+  "pages": [
+   "metanoia.html"
+  ],
+  "ctx": [
+   "metanoia.html:text:div/p"
+  ]
+ },
+ "Política de cookies | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:meta/title"
+  ]
+ },
+ "Quines cookies usa aquest lloc i per a què.": {
+  "n": 2,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:attr:meta",
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Política de cookies": {
+  "n": 2,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:attr:section",
+   "politica-cookies.html:text:div/h1"
+  ]
+ },
+ " / Política de cookies": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/nav"
+  ]
+ },
+ "Què és una cookie?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Una cookie és un fitxer que es descarrega al vostre ordinador en accedir a determinades pàgines web. Les cookies permeten a una pàgina web, entre altres coses, emmagatzemar i recuperar informació sobre els hàbits de navegació d'un usuari o del seu equip i, depenent de la informació que continguin i de la manera com s'utilitzi el vostre equip, poden servir per reconèixer-ho.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Això no obstant, aquests mitjans només obtenen informació relacionada amb el nombre de pàgines visites, la ciutat a la qual està assignada l'adreça IP des de la qual s'accedeix, el nombre de nous usuaris, la freqüència i reincidència de les visites, el temps de visita, el navegador o l'operador o tipus de terminal des del qual es fa la visita. En cap cas no s'obtenen dades sobre el nom, els cognoms, l'adreça postal o altres dades anàlogues de l'usuari que s'ha connectat.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Quins tipus de cookies hi ha?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Les galetes poden ser pròpies o de tercers . Les pròpies són les que s'envien a l'equip terminal de l'usuari des d'un equip o domini gestionat pel mateix editor de la web des del qual es presta el servei sol·licitat per l'usuari. Les galetes de tercers són les que s'envien a l'equip terminal de l'usuari des d'un equip o domini que no és gestionat per l'editor, sinó per una altra entitat que tracta les dades obtingudes a través de les galetes.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "A més, les galetes poden ser de sessió o persistents . Les primeres són un tipus de galetes dissenyades per demanar i emmagatzemar dades mentre l'usuari accedeix a una pàgina web. Les persistents són un tipus de cookies que fa que les dades segueixin emmagatzemades al terminal i puguin ser accedides i tractades durant un període definit pel responsable de la galeta, que pot anar d'uns minuts a diversos anys.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Qui és el responsable del tractament de les cookies en aquesta pàgina web?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "El titular de la web i responsable del tractament de les cookies aquí utilitzades, així com les dades de contacte, són accessibles a l'Avís legal d'aquesta pàgina. Així mateix, poden existir galetes de tercers diferents del titular d'aquesta web.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Quines són les cookies que utilitza aquesta web i per què s'utilitzen?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Cookies pròpies": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Tenen per finalitat identificar l'usuari a la pantalla amb el seu nick, identificar l'usuari com a subscriptor o no, registrar l'acceptació de la Política de cookies, el desament i recordatori de contrasenya i el desament de filtres establerts per a les cerques i, en general, proporcionar informació personalitzada segons les preferències manifestades per l'usuari.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Cookies de tercers": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Les aplicacions que utilitzen aquests tercers poden incloure serveis d'anàlisi (Google Analytics), xarxes socials, i altres serveis externs que puguin instal·lar cookies al vostre dispositiu.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Durant quant de temps es guarden les cookies?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Les galetes pròpies s'eliminen automàticament en finalitzar la sessió de l'usuari. Pel que fa a les cookies de tercers, el període de conservació depèn de cada proveïdor extern.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Quina és la legitimació per a l'ús de les cookies?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "En el cas de les galetes tècniques, és a dir, aquelles que resultin imprescindibles per navegar per aquesta web i rebre el servei ofert a través d'aquesta, la base legal del seu ús és l'acord a través del qual l'usuari decideix visitar aquesta pàgina web i utilitzar els serveis.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "La base legal de l'ús de la resta de cookies és el consentiment de l'usuari, que se us demana en el moment d'accedir a aquesta web, podent revocar-lo en qualsevol moment. La retirada del consentiment no afectarà la possibilitat de navegar per aquesta web i utilitzar els seus serveis, però els tractaments de dades efectuats amb anterioritat no perdran la seva licitud pel fet que el consentiment s'hagi revocat.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "A quins destinataris es comunicaran les cookies o qui hi podran accedir?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Quan hi hagi galetes de tercers, d'acord amb el que s'ha indicat més amunt, aquests tercers podran accedir a les galetes i utilitzar-les en la forma abans descrita.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Quins són els teus drets en relació amb l'ús de cookies per aquesta web?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Segons disposa la normativa vigent, qualsevol persona té dret a obtenir confirmació sobre si s'estan tractant dades personals que els concerneixin o no. Així mateix, en les condicions legalment previstes, les persones interessades tenen dret a accedir a les seves dades, així com a sol·licitar la rectificació de les dades inexactes o, si escau, a sol·licitar la seva supressió quan, entre altres motius, les dades ja no siguin necessaris per a les finalitats per a les quals van ser recollits.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "En les condicions previstes al Reglament General de Protecció de Dades, els interessats podran sol·licitar la limitació del tractament de les seves dades o la seva portabilitat, cas en què únicament les conservarem per a l'exercici o la defensa de reclamacions.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "En determinades circumstàncies i per motius relacionats amb la seva situació particular, els interessats podran oposar-se al tractament de les dades. Si heu atorgat el consentiment per a alguna finalitat específica, tens dret a retirar-lo en qualsevol moment, sense que això afecti la licitud del tractament basat en el consentiment previ a la seva retirada.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Davant qualsevol vulneració dels teus drets, especialment quan no hagis obtingut satisfacció en el seu exercici, pots presentar una reclamació davant de l'Agència Espanyola de Protecció de Dades (dades de contacte accessibles a www.agpd.es) o una altra autoritat de control competent.": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Com puc gestionar les cookies?": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/h3"
+  ]
+ },
+ "Pots permetre, bloquejar o eliminar les cookies instal·lades al teu equip mitjançant la configuració de les opcions del teu navegador:": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:div/p"
+  ]
+ },
+ "Chrome: Configuració > Privacitat i seguretat > Cookies i altres dades del lloc": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:ul/li"
+  ]
+ },
+ "Firefox: Opcions > Privacitat i seguretat > Cookies i dades del lloc": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:ul/li"
+  ]
+ },
+ "Safari: Preferències > Privacitat > Cookies i dades del lloc web": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:ul/li"
+  ]
+ },
+ "Edge: Configuració > Cookies i permisos del lloc > Administrar i eliminar cookies i dades del lloc": {
+  "n": 1,
+  "pages": [
+   "politica-cookies.html"
+  ],
+  "ctx": [
+   "politica-cookies.html:text:ul/li"
+  ]
+ },
+ "Política de privacitat | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:meta/title"
+  ]
+ },
+ "Com tractem les teves dades personals.": {
+  "n": 2,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:attr:meta",
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Política de privacitat": {
+  "n": 3,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:attr:section",
+   "politica-privacitat.html:text:div/h1",
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ " / Política de privacitat": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/nav"
+  ]
+ },
+ "A través del present avís, s'informa que les dades personals que es proporcionin a través d'aquesta web seran tractades per l' Associació Educació i Lleure Ubuntu, C/ Pedraforca, 3, 08033, ubuntu@associacioubuntu.org (d'ara endavant, el Prestador del Servei).": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Finalitat del tractament": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "La finalitat del tractament de les dades que ens facilitin els usuaris és exclusivament la de cursar la seva petició o consulta que facin a través del present lloc web i, si escau, si els usuaris expressament ho consenten mitjançant la marcació de la casella corresponent a peu del formulari de recollida de dades, trametre'ls informació sobre les activitats del Prestador del Servei que puguin resultar del vostre interès, per qualsevol mitjà, inclosos mitjans electrònics.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Base jurídica": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "El consentiment prestat, que constitueix la base jurídica que legitima el tractament de les dades, és revocable en qualsevol moment sense que això afecti la licitud del tractament basat en el consentiment previ a la seva retirada.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Dades necessàries": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "Llevat que específicament s'estableixi el contrari, es considerarà necessari completar totes les dades requerides al formulari de dades. En el cas de no subministrar totes les dades estimades com a necessàries, el Prestador del Servei podrà, depenent del cas, no cursar la sol·licitud concreta que s'efectuï.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Conservació de les dades": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "Les dades facilitades es conservaran fins que el moment en què els usuaris decideixin revocar el consentiment al tractament.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Veracitat de les dades": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "Els usuaris hauran d'emplenar els formularis amb dades veritables, exactes, completes i actualitzades, responent dels danys i perjudicis que pogués ocasionar a causa de l'emplenament defectuós dels formularis amb dades falses, inexactes, incompletes o no actualitzades.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Seguretat": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "El Prestador del Servei ha adoptat els nivells de seguretat de protecció de les dades personals exigits a la legislació vigent de protecció de dades, instal·lant les mesures tècniques i organitzatives necessàries per evitar la pèrdua, mal ús, alteració, accés no autoritzat i altres riscos possibles.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Igualment, el Prestador del Servei es compromet al compliment de la seva obligació de secret de les dades personals i del seu deure de guardar-les i adoptarà totes les mesures necessàries per evitar la seva alteració, pèrdua, tractament o accés no autoritzat, tenint en compte en tot moment de l'estat de la tecnologia.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Drets dels usuaris": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "El titular de les dades té dret a sol·licitar l'accés a aquestes, la seva rectificació o supressió, així com a la limitació del seu tractament, a oposar-s'hi i la portabilitat de les seves dades, en els casos previstos al Reglament General de Protecció de Dades, dirigint una comunicació escrita a l' Associació Educació i Lleure Ubuntu , a la següent adreça postal c/ Pedraforca, 3 , i/o electrònica ubuntu@associacioubuntu.org , on s'acrediti la identitat de l'usuari.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Modificacions": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "El Prestador del Servei es reserva el dret a modificar aquesta política, informant prèviament els usuaris dels canvis que s'hi introdueixin.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Reclamacions": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/h3"
+  ]
+ },
+ "Els usuaris tenen dret a presentar una reclamació davant de l'Agència Espanyola de Protecció de Dades si estimen que els drets de protecció de dades han estat vulnerats.": {
+  "n": 1,
+  "pages": [
+   "politica-privacitat.html"
+  ],
+  "ctx": [
+   "politica-privacitat.html:text:div/p"
+  ]
+ },
+ "Projectes | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:meta/title"
+  ]
+ },
+ "CAU, Centre Obert, Trampolí, Espiral, Belombe i Metanoia: els projectes educatius i comunitaris d'Ubuntu a la Zona Nord de Barcelona.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:attr:meta"
+  ]
+ },
+ "Activitat educativa d'Ubuntu amb infants del barri": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:attr:img"
+  ]
+ },
+ "Oci educatiu, acompanyament familiar, salut comunitària i xarxa al barri.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ " / Projectes": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/nav"
+  ]
+ },
+ "Sis projectes oberts al barri": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/h2"
+  ]
+ },
+ "Del temps lliure al suport psicològic i acompanyament de les famílies: CAU, Centre Obert, Trampolí, Espiral, Belombe i Metanoia per a infants, joves i famílies de 0 a 99 anys.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Activitats del CAU, espai de lleure educatiu dels dissabtes": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:attr:img"
+  ]
+ },
+ "Dissabtes 16h–18:30h · 6 a 12 anys": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/span"
+  ]
+ },
+ "Espai de lleure educatiu a l'Escola Ferrer i Guàrdia on infants i famílies participen\n            d'activitats a través de la convivència, l'estima i l'acompanyament.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Llegir més": {
+  "n": 6,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/a",
+   "projectes.html:text:div/a",
+   "projectes.html:text:div/a"
+  ]
+ },
+ "Lleure educatiu i reforç escolar a la Zona Nord: 50 places en cinc grups d'edat amb\n            educadora-referent, suport de voluntariat i treball intergeneracional.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Atenció psicològica i logopèdica del projecte Trampolí": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:attr:img"
+  ]
+ },
+ "Intervenció psicològica, psicopedagògica i logopèdica a escoles de Ciutat Meridiana,\n            Torre Baró i Vallbona. Més de 300 famílies ateses en més d'una dècada.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Espai d'acompanyament matern-infantil del projecte Espiral": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:attr:img"
+  ]
+ },
+ "Projecte Teixim Vincles: espais d'acompanyament matern-infantil, grups de parla,\n            tallers i suport en el postpart, amb el suport de Pla de Barris.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Acompanyament a joves del barri: referents positius, suport emocional i\n            activitats de lleure que enforteixen l'autoestima i el vincle comunitari.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Educació en el temps lliure per a adolescents: pensament crític, creativitat,\n            projectes d'investigació i participació activa a la comunitat.": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Altres programes": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:attr:section"
+  ]
+ },
+ "Més programes": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/span"
+  ]
+ },
+ "Xarxa comunitària i inserció laboral": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/h2"
+  ]
+ },
+ "Treballem de manera coordinada amb entitats, recursos i equipaments del barri i de la\n          ciutat: escoles, casals, biblioteca, centres cívics i serveis socials.\n          ": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Descobreix la xarxa": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:p/a"
+  ]
+ },
+ "Programa d'inserció laboral per a persones migrades en situació administrativa\n          irregular: assessorament jurídic, formació i mediació amb empreses.\n          ": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/p"
+  ]
+ },
+ "Saber-ne més": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:p/a"
+  ]
+ },
+ "Apoya aquests projectes amb una donació": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/a"
+  ]
+ },
+ "Col·labora com a voluntari/a": {
+  "n": 1,
+  "pages": [
+   "projectes.html"
+  ],
+  "ctx": [
+   "projectes.html:text:div/a"
+  ]
+ },
+ "Qui som | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:meta/title"
+  ]
+ },
+ "Història, missió, visió i valors de l'Associació Educació i Lleure Ubuntu (reg. nº 49677), a Ciutat Meridiana des de 2008.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:attr:meta"
+  ]
+ },
+ "Voluntariat i famílies d'Ubuntu en una activitat comunitària": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:attr:img"
+  ]
+ },
+ "Més de 15 anys acompanyant la infància i les famílies de la Zona Nord de Barcelona.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ " / Qui som": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/nav"
+  ]
+ },
+ "La filosofia": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/span"
+  ]
+ },
+ "“Jo sóc perquè tu ets”": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/h2"
+  ]
+ },
+ "Ubuntu és una expressió africana que significa ": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "“Jo sóc el que sóc per allò que tots som”": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:p/em"
+  ]
+ },
+ ".\n          Tots i totes som importants, som part de la tribu, i ens acceptem tal com som, des de la\n          convivència amb respecte i esperit crític. Compartir i crear vincle afavoreix la transformació\n          individual i col·lectiva.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "L'any 2008 vam començar com un espai de lleure els dissabtes a la tarda a la Zona Nord de\n          Ciutat Meridiana: el ": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "Cau de la Ubuntu": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:p/strong"
+  ]
+ },
+ ". El 2012, coneixent de prop les necessitats\n          del barri (un gran nombre de famílies en situació de vulnerabilitat), vam construir\n          l'": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ " per portar a terme diferents projectes\n          amb aquesta filosofia.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "Voluntariat i infants d'Ubuntu compartint una activitat al barri": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:attr:img"
+  ]
+ },
+ "Missió, visió i valors": {
+  "n": 2,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:attr:section",
+   "qui-som.html:text:div/h2"
+  ]
+ },
+ "Ideari": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/span"
+  ]
+ },
+ "Missió": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/h3"
+  ]
+ },
+ "L'educació com a eix: acompanyament als aprenentatges de la quotidianitat i dels processos\n          de vida. Promovem, a través de l'educació i el lleure, el desenvolupament integral de les\n          persones de la comunitat Ubuntu i de les famílies de la Zona Nord de Barcelona, generant\n          noves oportunitats.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "Visió": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/h3"
+  ]
+ },
+ "Ser reconeguda com una entitat responsable i compromesa amb la justícia social i el\n          desenvolupament humà, prioritzant la defensa dels drets de la infància i la joventut.\n          Una associació dinàmica i participativa, amb actuació local i capacitat d'adaptació.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "Valors": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/h3"
+  ]
+ },
+ "Unitat · Diversitat · Compromís · Qualitat · Confiança · Transparència ·\n          Voluntariat · Justícia · Participació": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:p/strong"
+  ]
+ },
+ ". Nou valors que guien cada projecte i cada\n          relació dins la comunitat.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "Valors en detall": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:attr:section"
+  ]
+ },
+ "Els nou valors, un a un": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/h2"
+  ]
+ },
+ "Unitat": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/summary"
+  ]
+ },
+ "Creiem en el treball en equip de manera interna i en la col·laboració externa amb altres organitzacions i institucions, per potenciar sinergies i millorar tots els aspectes de la nostra feina.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Diversitat": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/summary"
+  ]
+ },
+ "Fomentem una cultura on totes les persones són tractades de manera justa i respectuosa, amb el mateix accés a oportunitats i recursos.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Compromís": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/summary"
+  ]
+ },
+ "Ens comprometem íntegrament amb la nostra missió i visió, recolzant-nos en la integritat com a principi essencial de les nostres accions per contribuir a la transformació social.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Qualitat": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/summary"
+  ]
+ },
+ "Definim criteris de qualitat a través de l'anàlisi de cada projecte educatiu i de lleure, amb indicadors i objectius clarament avaluables.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Confiança": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/summary"
+  ]
+ },
+ "Facilitem la seguretat, naturalitat i familiaritat amb què tractem els integrants de la comunitat Ubuntu, perquè es puguin recolzar en el nostre equip.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Basem la nostra tasca en l'honestedat, la mútua responsabilitat i el màxim accés a la informació: rendició de comptes social i econòmica davant socis, col·laboradors, donants i la societat.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Proporcionem els mitjans necessaris per a la implicació de persones que contribueixin personal, professional i socialment a l'enriquiment educatiu dels projectes.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Justícia": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/summary"
+  ]
+ },
+ "Considerem la llibertat individual, la interdependència i la igualtat entre les persones i institucions perquè cada individu obtingui el que li correspon.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Participació": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/summary"
+  ]
+ },
+ "Fomentem els principis democràtics i participatius com a mitjans necessaris per a la transformació social.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:details/div"
+  ]
+ },
+ "Dades d'interès públic": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/h3"
+  ]
+ },
+ "Entitat sense ànim de lucre inscrita al registre amb el ": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ ", declarada\n        d'utilitat pública i acollida als beneficis fiscals de la ": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "Llei 49/2002": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:p/strong"
+  ]
+ },
+ ".\n        Consulta les ": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ " i la documentació institucional.": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/p"
+  ]
+ },
+ "Apoya l'equip amb un donatiu": {
+  "n": 1,
+  "pages": [
+   "qui-som.html"
+  ],
+  "ctx": [
+   "qui-som.html:text:div/a"
+  ]
+ },
+ "Trampolí | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:meta/title"
+  ]
+ },
+ "Atenció psicològica, psicopedagògica i logopèdica dins la xarxa de l'escola pública.": {
+  "n": 2,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:attr:meta",
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "Sessió d'atenció del projecte Trampolí": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:attr:img"
+  ]
+ },
+ " / Projectes / Trampolí": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/nav"
+  ]
+ },
+ "\"No hi ha cap medicina que guareixi allò que no guareix la felicitat\"": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "Gabriel García Márquez": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "Trampolí és un projecte que neix davant la creixent demanda de les escoles i famílies que pertanyen a la Zona nord de Nou barris, com una alternativa a la saturació dels serveis públics i l'alt cost del sector privat, apostant per una intervenció i atenció psicològica, psicopedagògica i logopèdica dins la xarxa de l'escola pública, a l'abast de tothom.": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "Actualment, la diversitat present a les aules, representa un repte pel professorat. Les necessitats específiques de l'alumnat, com per exemple, presentar trastorns d'aprenentatge, trastorns del llenguatge i la parla, dificultats acadèmiques i malestar emocional, configuren un panorama complex dins les escoles. Per intentar ajudar a pal·liar aquestes necessitats, el projecte Trampolí ha atès a més de 300 famílies al llarg de més d'una dècada, consolidant-se així com un projecte en connexió amb els principals recursos i dispositius dels barris de Ciutat Meridiana, Vallbona i Torre Baró.": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "Realitzem cribatges, intervencions logopèdiques i psicològiques dirigides a la infància i a l'adolescència, així com reforç psicopedagògic, que van orientades a fomentar les capacitats dels infants, adolescents i les famílies del barri, a través de la potenciació dels seus recursos i aptituds en les vessants lingüístiques, acadèmiques i emocionals, afavorint, d'aquesta manera, la salut comunitària.": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "En tot moment estem en col·laboració directa amb els agents que envolten els infants i adolescents, com són les escoles, centres oberts i entitats públiques.": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "Les intervencions es realitzen de dilluns a divendres en sessions d'una hora setmanalment o quinzenalment segons l'evolució del cas.": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "Realitzem la intervenció a escoles i instituts del territori de Zona Nord de Nou Barris que comprèn els barris de Ciutat Meridiana, Torre Baró i Vallbona .": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "El servei va dirigit a infants de 3 a 11 anys i adolescents fins els 16 anys escolaritzats a la Zona Nord que requereixen d'una atenció psicològica, psicopedagògica i/o logopèdica.": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "També fem acompanyament familiar dels infants i adolescents amb els que treballem.": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "E-mail: projecte.trampoli@gmail.com": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/p"
+  ]
+ },
+ "Telèfon: 722 23 27 80": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:p/br"
+  ]
+ },
+ "Apoya Trampolí": {
+  "n": 1,
+  "pages": [
+   "trampoli.html"
+  ],
+  "ctx": [
+   "trampoli.html:text:div/a"
+  ]
+ },
+ "Voluntariat i pràctiques | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:meta/title"
+  ]
+ },
+ "Fes-te voluntari o fes les pràctiques amb Ubuntu: acompanyament, formació i experiència real en educació social.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:attr:meta"
+  ]
+ },
+ "Voluntariat d'Ubuntu acompanyant infants en una activitat": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:attr:img"
+  ]
+ },
+ "Aporta el teu temps i les teves habilitats: la tribu t'està esperant.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ " / Voluntariat": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/nav"
+  ]
+ },
+ "Fes créixer la tribu": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/h2"
+  ]
+ },
+ "El voluntariat és el ": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "motor de l'Associació": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:p/strong"
+  ]
+ },
+ ". Necessitem persones compromeses\n        per acompanyar els projectes: CAU, Centre Obert, Trampolí i Espiral. Si tens ganes d'aportar\n        el teu temps i les teves habilitats, ens encantaria conèixer-te.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "També oferim ": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "places de pràctiques": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:p/strong"
+  ]
+ },
+ " per a estudiants de treball social,\n        educació social, psicologia, logopèdia, magisteri i altres graus relacionats.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "Voluntariat d'Ubuntu durant una sessió amb infants": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:attr:img"
+  ]
+ },
+ "Què oferim": {
+  "n": 2,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:attr:section",
+   "voluntariat.html:text:div/span"
+  ]
+ },
+ "Un entorn per aprendre i contribuir": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/h2"
+  ]
+ },
+ "Acompanyament i supervisió professional contínua durant tota la teva col·laboració.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "Formació específica en els àmbits d'actuació dels projectes, amb experts de cada disciplina.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "Certificat": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/h3"
+  ]
+ },
+ "Certificat de pràctiques o voluntariat i experiència real en entorns educatius i socials.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "Equip": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/h3"
+  ]
+ },
+ "Participació en un equip multidisciplinari amb vocació i implicació.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "Perfil buscat": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/h3"
+  ]
+ },
+ "Sensibilitat cap a la injustícia social, compromís, treball en equip i disponibilitat de 3–4 hores setmanals.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "Pràctiques": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/h3"
+  ]
+ },
+ "Convenis amb universitats per a estudiants de graus socials i educatius.": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "Formulari de voluntariat": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:attr:section"
+  ]
+ },
+ "Uneix-t'hi": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/span"
+  ]
+ },
+ "Escriu-nos i ens coneixem": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/h2"
+  ]
+ },
+ "Nom i cognoms": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/label"
+  ]
+ },
+ "Telèfon": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/label"
+  ]
+ },
+ "Projecte on vols col·laborar": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/label"
+  ]
+ },
+ "CAU (dissabtes)": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:select/option"
+  ]
+ },
+ "Centre Obert (tardes)": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:select/option"
+  ]
+ },
+ "Trampolí (escoles)": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:select/option"
+  ]
+ },
+ "Espiral (famílies 0-6)": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:select/option"
+  ]
+ },
+ "Encara no ho sé": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:select/option"
+  ]
+ },
+ "Presenta't breument": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/label"
+  ]
+ },
+ "Qui ets, què t'interessa i quina disponibilitat tens…": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:attr:textarea"
+  ]
+ },
+ "Enviar sol·licitud": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/button"
+  ]
+ },
+ "Maqueta visual: aquest formulari no envia dades en la versió estàtica.\n          Escriu-nos a ": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ " o truca'ns al\n          ": {
+  "n": 1,
+  "pages": [
+   "voluntariat.html"
+  ],
+  "ctx": [
+   "voluntariat.html:text:div/p"
+  ]
+ },
+ "Xarxa comunitària | Associació Ubuntu": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:meta/title"
+  ]
+ },
+ "La xarxa comunitària d'Ubuntu: entitats, escoles i equipaments de la Zona Nord de Barcelona.": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:meta"
+  ]
+ },
+ "Plaça d'Ubuntu durant una festa comunitària": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Teixim xarxa amb les entitats i equipaments del territori.": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ " / Xarxa comunitària": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/nav"
+  ]
+ },
+ "“Molta gent petita, en llocs petits, fent coses petites, pot canviar el món.”": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/blockquote"
+  ]
+ },
+ "Eduardo Galeano": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:blockquote/cite"
+  ]
+ },
+ "Des d'Ubuntu creiem que és cabdal el treball comunitari: treballem de manera coordinada,\n        tant entre els diferents projectes de l'associació com amb altres entitats, recursos i\n        equipaments del barri i de la ciutat.": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ "Treball en xarxa": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/span"
+  ]
+ },
+ "Entitats i equipaments de la xarxa": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h2"
+  ]
+ },
+ "24 recursos del barri i de la ciutat amb qui treballem coordinadament, tal com apareixen a la web original.": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ "Filtra les entitats per àmbit": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:div"
+  ]
+ },
+ "Totes": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/button"
+  ]
+ },
+ "Escoles": {
+  "n": 8,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/button",
+   "xarxa-comunitaria.html:text:div/span",
+   "xarxa-comunitaria.html:text:div/span"
+  ]
+ },
+ "Salut": {
+  "n": 4,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/button",
+   "xarxa-comunitaria.html:text:div/span",
+   "xarxa-comunitaria.html:text:div/span"
+  ]
+ },
+ "Cultura i lleure": {
+  "n": 5,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/button",
+   "xarxa-comunitaria.html:text:div/span",
+   "xarxa-comunitaria.html:text:div/span"
+  ]
+ },
+ "Entitats": {
+  "n": 6,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/button",
+   "xarxa-comunitaria.html:text:div/span",
+   "xarxa-comunitaria.html:text:div/span"
+  ]
+ },
+ "Xarxes": {
+  "n": 6,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/button",
+   "xarxa-comunitaria.html:text:div/span",
+   "xarxa-comunitaria.html:text:div/span"
+  ]
+ },
+ "24 entitats": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ "Logotip de EBM Aqüeducte": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "EBM Aqüeducte": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Centre educatiu amb qui treballem de manera coordinada.": {
+  "n": 7,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ "Visita el web": {
+  "n": 24,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/a",
+   "xarxa-comunitaria.html:text:div/a",
+   "xarxa-comunitaria.html:text:div/a"
+  ]
+ },
+ "Logotip de EBM La Muntanya": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "EBM La Muntanya": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Escola Ferrer i Guàrdia": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Escola Ferrer i Guàrdia": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Escola Mestre Morera": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Escola Mestre Morera": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Institut Picasso": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Institut Picasso": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Casal de Joves de Zona Nord": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Casal de Joves de Zona Nord": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Equipament de cultura i lleure del territori.": {
+  "n": 4,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ "Logotip de Comerciants de Zona Nord": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Comerciants de Zona Nord": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Xarxa o espai de coordinació del territori.": {
+  "n": 5,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ "Logotip de Taula comunitària amb veu de dona": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Taula comunitària amb veu de dona": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Fundació Pare Manel": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Fundació Pare Manel": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Entitat social amb qui teixim comunitat al barri.": {
+  "n": 5,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ "Logotip de XAPO · Xarxa d'oportunitats": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "XAPO · Xarxa d'oportunitats": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Educa": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Educa": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Xarxa 6 · Barcelona Inclusiva": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Xarxa 6 · Barcelona Inclusiva": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de EAIA Nou Barris": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "EAIA Nou Barris": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Servei de salut i atenció amb qui treballem en xarxa.": {
+  "n": 3,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p",
+   "xarxa-comunitaria.html:text:div/p"
+  ]
+ },
+ "Logotip de Institut Escola Trinitat Nova": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Institut Escola Trinitat Nova": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de CDIAP Nou Barris": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "CDIAP Nou Barris": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de FEDAIA": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "FEDAIA": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Ventijol": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Ventijol": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Biblioteca Zona Nord": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Biblioteca Zona Nord": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Centre Cívic Zona Nord": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Centre Cívic Zona Nord": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Fundació Ramon Martí Bonet": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Fundació Ramon Martí Bonet": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de ASSIR Barcelona": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "ASSIR Barcelona": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Educarts · Escola Ferrer i Guàrdia": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Educarts · Escola Ferrer i Guàrdia": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de Ateneu de Fabricació de Ciutat Meridiana": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "Ateneu de Fabricació de Ciutat Meridiana": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Logotip de 9 Barris Acull": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:attr:img"
+  ]
+ },
+ "9 Barris Acull": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/h3"
+  ]
+ },
+ "Apoya la xarxa comunitària": {
+  "n": 1,
+  "pages": [
+   "xarxa-comunitaria.html"
+  ],
+  "ctx": [
+   "xarxa-comunitaria.html:text:div/a"
+  ]
+ }
+}
