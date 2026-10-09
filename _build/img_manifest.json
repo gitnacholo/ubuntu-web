@@ -1,0 +1,354 @@
+{
+ "heroes/hero-1.webp": [
+  1600,
+  777
+ ],
+ "heroes/hero-2.webp": [
+  1600,
+  1200
+ ],
+ "heroes/hero-3.webp": [
+  1600,
+  1200
+ ],
+ "heroes/hero-4.webp": [
+  1600,
+  1200
+ ],
+ "heroes/hero-5.webp": [
+  1600,
+  1200
+ ],
+ "projects/cau.webp": [
+  480,
+  302
+ ],
+ "projects/centre-obert.webp": [
+  480,
+  302
+ ],
+ "projects/trampoli.webp": [
+  480,
+  302
+ ],
+ "projects/espiral.webp": [
+  480,
+  302
+ ],
+ "projects/voluntariat.webp": [
+  768,
+  346
+ ],
+ "projects/acol.webp": [
+  849,
+  449
+ ],
+ "projects/xarxa.webp": [
+  900,
+  252
+ ],
+ "sq/cau.webp": [
+  302,
+  302
+ ],
+ "sq/centre-obert.webp": [
+  302,
+  302
+ ],
+ "sq/trampoli.webp": [
+  302,
+  302
+ ],
+ "sq/espiral.webp": [
+  302,
+  302
+ ],
+ "xarxa/12345.webp": [
+  240,
+  67
+ ],
+ "xarxa/9barris-acull.webp": [
+  240,
+  240
+ ],
+ "xarxa/acol.webp": [
+  240,
+  78
+ ],
+ "xarxa/aqueducte.webp": [
+  240,
+  240
+ ],
+ "xarxa/assir.webp": [
+  240,
+  240
+ ],
+ "xarxa/ateneu.webp": [
+  240,
+  240
+ ],
+ "xarxa/biblioteca-zona-nord.webp": [
+  240,
+  240
+ ],
+ "xarxa/c-o-xarxa.webp": [
+  240,
+  240
+ ],
+ "xarxa/casal-de-joves-zn.webp": [
+  240,
+  240
+ ],
+ "xarxa/cau-logo-12.webp": [
+  240,
+  109
+ ],
+ "xarxa/cdiap.webp": [
+  240,
+  240
+ ],
+ "xarxa/centre-civic-zona-nord.webp": [
+  240,
+  240
+ ],
+ "xarxa/comerciants.webp": [
+  240,
+  239
+ ],
+ "xarxa/eaia.webp": [
+  240,
+  240
+ ],
+ "xarxa/educa.webp": [
+  240,
+  240
+ ],
+ "xarxa/educad.webp": [
+  240,
+  240
+ ],
+ "xarxa/educars.webp": [
+  240,
+  240
+ ],
+ "xarxa/fedaia.webp": [
+  240,
+  240
+ ],
+ "xarxa/ferrer-i-g.webp": [
+  240,
+  240
+ ],
+ "xarxa/image-123.webp": [
+  240,
+  69
+ ],
+ "xarxa/la-muntanya.webp": [
+  240,
+  240
+ ],
+ "xarxa/logo-espiral-1.webp": [
+  240,
+  113
+ ],
+ "xarxa/memoria-2016-1-1024x770.webp": [
+  240,
+  180
+ ],
+ "xarxa/memoria-2017-1-1024x768.webp": [
+  240,
+  180
+ ],
+ "xarxa/memoria-2019.webp": [
+  240,
+  179
+ ],
+ "xarxa/memoria-2020-1-1024x768.webp": [
+  240,
+  180
+ ],
+ "xarxa/memoria-2021.webp": [
+  240,
+  179
+ ],
+ "xarxa/memoria-2023-1024x767.webp": [
+  240,
+  179
+ ],
+ "xarxa/memporia-2022.webp": [
+  240,
+  179
+ ],
+ "xarxa/meoria-2018-1-1024x770.webp": [
+  240,
+  180
+ ],
+ "xarxa/mestre-morrrr.webp": [
+  240,
+  240
+ ],
+ "xarxa/pablo-pic.webp": [
+  240,
+  240
+ ],
+ "xarxa/pare-manel.webp": [
+  240,
+  240
+ ],
+ "xarxa/ramon-bonet.webp": [
+  240,
+  240
+ ],
+ "xarxa/taula-de-dones.webp": [
+  240,
+  239
+ ],
+ "xarxa/taula-proinfancia.webp": [
+  240,
+  240
+ ],
+ "xarxa/ventijol.webp": [
+  240,
+  240
+ ],
+ "xarxa/xapo.webp": [
+  240,
+  240
+ ],
+ "sponsors/ajuntament.webp": [
+  280,
+  104
+ ],
+ "sponsors/caixanew2.webp": [
+  280,
+  104
+ ],
+ "sponsors/generalitat.webp": [
+  280,
+  68
+ ],
+ "sponsors/lgo-fundacionlacaixanew.webp": [
+  280,
+  101
+ ],
+ "sponsors/xiula-logo-invertit.webp": [
+  280,
+  146
+ ],
+ "sponsors/mafars.webp": [
+  225,
+  225
+ ],
+ "sponsors/logo-fpm.webp": [
+  280,
+  312
+ ],
+ "sponsors/martibonet.webp": [
+  280,
+  83
+ ],
+ "sponsors/logo-icmversio3claim.webp": [
+  280,
+  187
+ ],
+ "sponsors/rmc-sport.webp": [
+  280,
+  321
+ ],
+ "sponsors/logo-espaiauditiu2.webp": [
+  233,
+  187
+ ],
+ "sponsors/etnia-logo.webp": [
+  280,
+  46
+ ],
+ "sponsors/logo-accionplanetaria.webp": [
+  189,
+  188
+ ],
+ "sponsors/logo-xamfra-centre-de-musica-i-escena-del-raval.webp": [
+  233,
+  191
+ ],
+ "sponsors/alfasoni-logo-web.webp": [
+  280,
+  88
+ ],
+ "sponsors/capibola1.webp": [
+  280,
+  145
+ ],
+ "sponsors/logos-harmonitzacio-soc-gene-fse-halg.webp": [
+  280,
+  19
+ ],
+ "logo/logo-mono.webp": [
+  320,
+  147
+ ],
+ "logo/logo-square.jpg": [
+  192,
+  192
+ ],
+ "logo/logo-sq.webp": [
+  200,
+  200
+ ],
+ "memories/revista-1.webp": [
+  558,
+  799
+ ],
+ "memories/revista-2.webp": [
+  536,
+  767
+ ],
+ "memories/revista-3.webp": [
+  559,
+  800
+ ],
+ "memories/revista-4.webp": [
+  559,
+  800
+ ],
+ "memories/memoria-2024.webp": [
+  900,
+  675
+ ],
+ "memories/memoria-2025.webp": [
+  900,
+  675
+ ],
+ "memories/butlleti-1.webp": [
+  572,
+  492
+ ],
+ "memories/butlleti-3.webp": [
+  570,
+  489
+ ],
+ "gallery/gallery-1.webp": [
+  1000,
+  485
+ ],
+ "gallery/gallery-2.webp": [
+  1000,
+  485
+ ],
+ "help/2024-11-18-10-22-48-donaciones-y-desgrave.webp": [
+  811,
+  386
+ ],
+ "memories/revista-5.webp": [
+  546,
+  783
+ ],
+ "memories/memoria-2023.webp": [
+  900,
+  674
+ ],
+ "projects/activitat-2.webp": [
+  1000,
+  750
+ ]
+}

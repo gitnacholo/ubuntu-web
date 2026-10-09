@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<script>try{var a=document.documentElement;if(localStorage.getItem('ubuntu-a11y-dark')==='1'){a.classList.add('modo-oscuro')}if(localStorage.getItem('ubuntu-a11y-dys')==='1'){a.classList.add('font-dislexia')}var m=parseInt(localStorage.getItem('ubuntu-a11y-fs'),10);if(m>=12&&m<=24){a.style.fontSize=m+'px'}}catch(e){}</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ubuntu | Associació Educació i Lleure — Ciutat Meridiana</title>
+<meta name="description" content="Associació Educació i Lleure Ubuntu: oci educatiu, acompanyament familiar i comunitat a Ciutat Meridiana des de 2008. Dona o fes-te voluntari/ària.">
+<link rel="icon" type="image/png" href="assets/img/logo/logoubuntuv2.png">
+<link rel="stylesheet" href="assets/fonts/fonts.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#contingut">Salta al contingut principal</a>
+<div class="a11y-bar" role="toolbar" aria-label="Eines d'accessibilitat">
+  <div class="container a11y-bar-inner">
+    <span class="a11y-label" aria-hidden="true">Accessibilitat</span>
+    <button type="button" id="a11y-contrast" aria-pressed="false" aria-label="Canvia entre mode clar i fosc"><svg class="icon-moon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg><svg class="icon-sun" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><span class="txt-fosc">Fosc</span><span class="txt-clar">Clar</span></button>
+    <button type="button" id="a11y-font-menys" aria-label="Redueix la mida de la lletra">A-</button>
+    <button type="button" id="a11y-font-mes" aria-label="Augmenta la mida de la lletra">A+</button>
+    <button type="button" id="a11y-dislexia" aria-pressed="false">Lletra llegible</button>
+  </div>
+</div>
+<header class="site-header">
+  <div class="container">
+    <div class="header-inner">
+      <a href="index.html" class="brand" aria-label="Associació Ubuntu - inici">
+        <img src="assets/img/logo/logoubuntuv2.png" alt="Logo de l'Associació Educació i Lleure Ubuntu" width="44" height="44">
+        <span><strong>Ubuntu</strong><small>Educació i Lleure</small></span>
+      </a>
+        <nav class="nav-desktop" aria-label="Navegació principal">
+          <ul class="nav-list">
+          <li><a href="index.html" aria-current="page">Inici</a></li>
+              <li><a href="qui-som.html">Qui som</a></li>
+              <li><a href="projectes.html">Projectes</a></li>
+              <li><a href="voluntariat.html">Voluntariat</a></li>
+              <li><a href="dons.html">Donacions</a></li>
+              <li><a href="contacte.html">Contacte</a></li>
+              <li><a href="colaboradores.html">Colaboradors</a></li>
+              <li><a href="documentacion.html">Documentació</a></li>
+          </ul>
+          <a class="btn btn-primary" href="dons.html">Dona suport</a>
+      </nav>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Obre el menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+   </div>
+ </header>
+ <nav class="mobile-nav" id="mobile-nav" aria-label="Menú mòbil">
+   <ul>
+     <li><a href="index.html" aria-current="page">Inici</a></li>
+             <li><a href="qui-som.html">Qui som</a></li>
+             <li><a href="projectes.html">Projectes</a></li>
+             <li><a href="voluntariat.html">Voluntariat</a></li>
+             <li><a href="dons.html">Donacions</a></li>
+             <li><a href="contacte.html">Contacte</a></li>
+             <li><a href="colaboradores.html">Colaboradors</a></li>
+             <li><a href="documentacion.html">Documentació</a></li>
+  </ul>
+  <a class="btn btn-primary btn-lg" href="dons.html">Dona suport</a>
+  <a class="btn btn-secondary btn-lg" href="voluntariat.html">Fes-te voluntari/a</a>
+</nav>
+<main id="contingut">
+
+  <!-- HERO -->
+  <section class="hero" aria-label="Presentació">
+    <div class="hero-bg"><img src="assets/img/heroes/hero-4.webp" alt="Infants jugant amb jocs educatius a una plaça del barri amb les monitores d'Ubuntu" fetchpriority="high"></div>
+    <div class="container">
+      <div class="hero-content">
+        <span class="kicker">Ciutat Meridiana · Zona Nord · Barcelona</span>
+        <h1>Oci educatiu que transforma vides</h1>
+        <p class="lead">Acompanyem infants, joves i famílies perquè ningú es quedi enrere.
+        “Jo sóc perquè tu ets”: amb el teu suport, la tribu creix.</p>
+        <div class="hero-ctas">
+          <a class="btn btn-primary btn-lg" href="dons.html">Dona suport</a>
+          <a class="btn btn-ghost btn-lg" href="voluntariat.html">Fes-te voluntari/a</a>
+        </div>
+        <p class="hero-note">Entitat sense ànim de lucre nº 49677 · Més de 15 anys al barri · <a href="projectes.html">Coneix els projectes</a></p>
+      </div>
+    </div>
+    <a class="scroll-cue" href="#essencia" aria-label="Desplaça't a la nostra essència"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg></a>
+  </section>
+
+  <!-- MANIFEST -->
+  <section class="manifesto section" id="essencia" aria-label="La nostra essència">
+    <div class="container" style="text-align:center;max-width:960px;">
+      <div class="reveal">
+        <span class="kicker">La nostra essència</span>
+        <p class="manifesto-text">«Jo sóc <em>perquè tu ets</em>»</p>
+        <p class="manifesto-sub">Per educar un infant, cal tota una tribu. A Ubuntu ho fem possible cada dia amb <strong>convivència</strong>, <strong>estima</strong> i <strong>acompanyament</strong> al cor de Ciutat Meridiana.</p>
+      </div>
+      <div class="manifesto-vals">
+        <div class="valor reveal">
+          <span class="valor-ico"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span>
+          <h3>Convivència</h3>
+          <p>Espais on infants, joves i famílies es troben i creixen juntes.</p>
+        </div>
+        <div class="valor reveal d1">
+          <span class="valor-ico"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></span>
+          <h3>Estima</h3>
+          <p>Cada infant és únic: l'escoltem, el cuidem i el valorem.</p>
+        </div>
+        <div class="valor reveal d2">
+          <span class="valor-ico"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></span>
+          <h3>Acompanyament</h3>
+          <p>Al costat de les famílies, del barri i de l'escola, pas a pas.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- IMPACTE -->
+  <section class="stats-band section" aria-label="El nostre impacte">
+    <div class="container">
+      <div class="section-head center reveal" style="color:#fff;">
+        <span class="kicker">El nostre impacte</span>
+        <h2 style="color:#fff;">La tribu, en xifres vives</h2>
+      </div>
+      <div class="impact-grid">
+        <div class="impact-card reveal">
+          <span class="impact-ico"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span>
+          <div class="num" data-count="50" data-suffix="+">0</div>
+          <div class="lbl">places d'oci educatiu i reforç escolar al Centre Obert</div>
+        </div>
+        <div class="impact-card reveal d1">
+          <span class="impact-ico"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></span>
+          <div class="num" data-count="300" data-suffix="+">0</div>
+          <div class="lbl">famílies ateses pel projecte Trampolí</div>
+        </div>
+        <div class="impact-card reveal d2">
+          <span class="impact-ico"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg></span>
+          <div class="num" data-count="6" data-suffix="">0</div>
+          <div class="lbl">projectes oberts al barri: del CAU a Metanoia</div>
+        </div>
+        <div class="impact-card reveal d3">
+          <span class="impact-ico"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></span>
+          <div class="num" data-count="15" data-suffix="+">0</div>
+          <div class="lbl">anys creant vincles a Ciutat Meridiana</div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="word-strip">
+    <div class="container">
+      <ul aria-label="Paraules clau de l'associació">
+        <li class="word-pill">Oci educatiu</li>
+        <li class="word-pill">Tribu</li>
+        <li class="word-pill">Comunitat</li>
+        <li class="word-pill">Ciutat Meridiana</li>
+        <li class="word-pill">Jo sóc perquè tu ets</li>
+        <li class="word-pill">Zona Nord</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- QUE FEM: PROGRAMMES -->
+  <section class="section" aria-label="Els nostres projectes">
+    <div class="container">
+      <div class="section-head center reveal">
+        <span class="kicker">Què fem</span>
+        <h2>Sis projectes, una mateixa tribu</h2>
+        <p class="lead">Educació en el temps lliure, acompanyament familiar, suport psicològic i xarxa comunitària a la Zona Nord de Nou Barris.</p>
+      </div>
+      <div class="grid-3">
+        <article class="card reveal">
+          <div class="card-media"><img src="assets/img/projects/cau.webp" alt="Infants participant en una activitats del CAU, espai de lleure educatiu dels dissabtes" loading="lazy"></div>
+          <div class="card-body">
+            <span class="card-tag">Dissabtes · 6 a 12 anys</span>
+            <h3>CAU</h3>
+            <p>Espai de lleure educatiu on infants i famílies participen d'activitats a través de la convivència, l'estima i l'acompanyament.</p>
+            <a class="btn btn-secondary" href="cau.html">Descobreix el CAU</a>
+          </div>
+        </article>
+        <article class="card reveal d1">
+          <div class="card-media"><img src="assets/img/projects/centre-obert.webp" alt="Nens i adolescents fent reforç escolar al Centre Obert d'Ubuntu" loading="lazy"></div>
+          <div class="card-body">
+            <span class="card-tag">Cada tarda · 6 a 16 anys</span>
+            <h3>Centre Obert</h3>
+            <p>Lleure educatiu i reforç escolar: 50 places perquè infants i adolescents de la Zona Nord tinguin un espai pensat per a ells.</p>
+            <a class="btn btn-secondary" href="centre-obert.html">Descobreix el Centre Obert</a>
+          </div>
+        </article>
+        <article class="card reveal">
+          <div class="card-media"><img src="assets/img/projects/trampoli.webp" alt="Sessió d'atenció psicològica i logopèdica del projecte Trampolí" loading="lazy"></div>
+          <div class="card-body">
+            <span class="card-tag">A l'escola pública · 3 a 16 anys</span>
+            <h3>Trampolí</h3>
+            <p>Atenció psicològica, psicopedagògica i logopèdica a l'abast de tothom, amb més de 300 famílies ateses en una dècada.</p>
+            <a class="btn btn-secondary" href="trampoli.html">Descobreix Trampolí</a>
+          </div>
+        </article>
+        <article class="card reveal d2">
+          <div class="card-media"><img src="assets/img/projects/espiral.webp" alt="Grup de mares i bebès en un espai d'acompanyament familiar del projecte Espiral" loading="lazy"></div>
+          <div class="card-body">
+            <span class="card-tag">Famílies · 0 a 6 anys</span>
+            <h3>Espiral</h3>
+            <p>Projecte Teixim Vincles: espais d'acompanyament matern-infantil per potenciar el benestar de les famílies des de l'inici de la criança.</p>
+            <a class="btn btn-secondary" href="espiral.html">Descobreix Espiral</a>
+          </div>
+        </article>
+        <article class="card reveal">
+          <div class="card-media"><img src="assets/img/heroes/hero-3.webp" alt="Joves del projecte Belombe en una activitat comunitària" loading="lazy"></div>
+          <div class="card-body">
+            <span class="card-tag">Joves · 12 a 18 anys</span>
+            <h3>Belombe</h3>
+            <p>Acompanyament a joves del barri: referents positius, suport emocional i activitats de lleure que enforteixen l'autoestima.</p>
+            <a class="btn btn-secondary" href="belombe.html">Descobreix Belombe</a>
+          </div>
+        </article>
+        <article class="card reveal d1">
+          <div class="card-media"><img src="assets/img/heroes/hero-5.webp" alt="Adolescents del projecte Metanoia en un taller educatiu" loading="lazy"></div>
+          <div class="card-body">
+            <span class="card-tag">Adolescents · 12 a 16 anys</span>
+            <h3>Metanoia</h3>
+            <p>Educació en el temps lliure per a adolescents: pensament crític, creativitat i participació activa a la comunitat.</p>
+            <a class="btn btn-secondary" href="metanoia.html">Descobreix Metanoia</a>
+          </div>
+        </article>
+      </div>
+      <p class="text-center mt-4 reveal"><a class="btn btn-green" href="projectes.html">Veure tots els projectes i la xarxa comunitària</a></p>
+    </div>
+  </section>
+
+  <!-- QUI SOM teaser -->
+  <section class="section bg-crema" aria-label="Qui som">
+    <div class="container grid-2" style="align-items:center;">
+      <div class="reveal">
+        <span class="kicker" style="display:inline-block;font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--vermell);background:var(--vermell-suau);padding:.35em .9em;border-radius:999px;margin-bottom:var(--sp-2);">Qui som</span>
+        <h2>Una associació nascuda del barri</h2>
+        <p>L'any 2008 començàvem com un espai de lleure els dissabtes a la tarda a la Zona Nord de
+        Ciutat Meridiana. Vuit anys més tard, veient les necessitats de les famílies del barri,
+        naixia l'Associació Educació i Lleure Ubuntu: “Jo sóc perquè tu ets”.</p>
+        <p>Som un equip de professionals i voluntàries amb vocació. És gràcies a la comunitat que
+        Ubuntu creix any rere any i arriba a més infants i famílies.</p>
+        <a class="btn btn-primary" href="qui-som.html">Coneix la nostra història</a>
+      </div>
+      <div class="reveal d1"><img src="assets/img/heroes/hero-2.webp" alt="Equip i voluntariat d'Ubuntu durant una sortida comunitària" loading="lazy" style="border-radius:var(--radi-lg);box-shadow:var(--sombra);"></div>
+    </div>
+  </section>
+
+  <!-- GALERIA -->
+  <section class="section" aria-label="Activitats destacades">
+    <div class="container">
+      <div class="section-head center reveal">
+        <span class="kicker">Així som</span>
+        <h2> Moments que expliquen qui som</h2>
+      </div>
+      <div class="masonry reveal">
+        <div class="tall"><img src="assets/img/gallery/gallery-1.webp" alt="Activitat d'oci educatiu d'Ubuntu a la Zona Nord" loading="lazy"></div>
+        <div><img src="assets/img/gallery/gallery-3.webp" alt="Infants gaudint d'una sortida d'entitat del barri" loading="lazy"></div>
+        <div class="tall"><img src="assets/img/gallery/gallery-2.webp" alt="Moment de convivència entre participants i voluntariat" loading="lazy"></div>
+        <div><img src="assets/img/gallery/gallery-4.webp" alt="Taller d'oci educatiu amb infants del barri" loading="lazy"></div>
+        <div><img src="assets/img/gallery/gallery-5.webp" alt="Famílies participants en les activitats comunitàries" loading="lazy"></div>
+        <div><img src="assets/img/heroes/hero-3.webp" alt="Foto de grup d'infants, joves i voluntariat d'Ubuntu en una sortida" loading="lazy"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA FINAL -->
+  <section class="cta-final section" aria-label="Com ajudar">
+    <div class="container">
+      <div class="reveal">
+        <span class="kicker" style="display:inline-block;font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#3A2400;background:var(--groc);padding:.35em .9em;border-radius:999px;margin-bottom:var(--sp-2);">Fes-la possible</span>
+        <h2>La teva ajuda fa possible que seguim</h2>
+        <p>Cada donatiu es converteix en oci educatiu, reforç escolar, atenció psicològica i acompanyament
+        familiar. I cada voluntària que s'uneix fa la tribu més gran.</p>
+        <div class="hero-ctas">
+          <a class="btn btn-white btn-lg" href="dons.html">Dona suport</a>
+          <a class="btn btn-ghost btn-lg" href="voluntariat.html">Uneix-te a l'equip</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h3>Associació Educació i Lleure Ubuntu</h3>
+        <p>“Jo sóc perquè tu ets”. Oci educatiu, acompanyament familiar i comunitat
+        al barri de Ciutat Meridiana des de l'any 2008.</p>
+        <p>Entitat sense ànim de lucre registrada amb el nº 49677, declarada d'utilitat pública (Llei 49/2002).</p>
+        <address style="font-style:normal;">
+          C/ Vallcivera, 24-26 · 08033 Barcelona<br>
+          <a href="mailto:ubuntu@associacioubuntu.org">ubuntu@associacioubuntu.org</a><br>
+          <a href="tel:+34620015846">+34 620 01 58 46</a>
+        </address>
+       </div>
+       <div>
+         <h3>Enllaços ràpids</h3>
+         <ul>
+           <li><a href="qui-som.html">Qui som</a></li>
+           <li><a href="projectes.html">Projectes</a></li>
+           <li><a href="voluntariat.html">Voluntariat i pràctiques</a></li>
+           <li><a href="dons.html">Donacions i socis</a></li>
+           <li><a href="contacte.html">Contacte</a></li>
+           <li><a href="memories-anuals.html">Memòries i revista</a></li>
+           <li><a href="colaboradores.html">Colaboradors</a></li>
+           <li><a href="documentacion.html">Documentació</a></li>
+         </ul>
+       </div>
+       <div>
+         <h3>Projectes</h3>
+         <ul>
+           <li><a href="cau.html">CAU</a></li>
+           <li><a href="centre-obert.html">Centre Obert</a></li>
+           <li><a href="trampoli.html">Trampolí</a></li>
+           <li><a href="espiral.html">Espiral</a></li>
+           <li><a href="belombe.html">Belombe</a></li>
+           <li><a href="metanoia.html">Metanoia</a></li>
+           <li><a href="xarxa-comunitaria.html">Xarxa comunitària</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>La teva ajuda importa</h3>
+        <div class="footer-cta">
+          <p>Amb el teu donatiu, més infants de la Zona Nord tindran ocio educatiu cada setmana.</p>
+          <a class="btn btn-white btn-primary" style="background:#fff;color:var(--vermell-fosc);" href="dons.html">Dona suport</a>
+        </div>
+        <h3 class="mt-3">Segueix-nos</h3>
+        
+<div class="footer-social">
+  <a href="https://www.facebook.com/associacioubuntu" aria-label="Facebook de l'Associació Ubuntu" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+  <a href="https://www.instagram.com/associacioubuntu" aria-label="Instagram de l'Associació Ubuntu" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
+  <a href="canal-de-youtube.html" aria-label="Canal de YouTube de l'Associació Ubuntu"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19C0 8.07 0 12 0 12s0 3.93.5 5.81a3.02 3.02 0 0 0 2.12 2.14c1.88.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14C24 15.93 24 12 24 12s0-3.93-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z"/></svg></a>
+</div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Associació Educació i Lleure Ubuntu</span>
+      <span class="registro">Registre d'associacions nº 49677</span>
+      <span>
+        <a href="politica-privacitat.html">Privacitat</a> ·
+        <a href="aviso-legal.html">Avís legal</a> ·
+        <a href="politica-cookies.html">Cookies</a> ·
+        <a href="accessibilitat.html">Accessibilitat</a>
+      </span>
+    </div>
+  </div>
+</footer>
+<div class="cookie-notice" id="cookieNotice" role="dialog" aria-label="Avís de cookies" style="display:none;position:fixed;bottom:1rem;left:1rem;right:1rem;z-index:70;background:#241B12;color:#fff;border-radius:14px;padding:1rem 1.3rem;max-width:640px;margin-inline:auto;box-shadow:0 10px 30px rgba(0,0,0,.35);">
+  <p style="margin:0 0 .7rem;font-size:.9rem;">Aquest web utilitza cookies tècniques per millorar la teva experiència. Pots llegir la <a href="politica-cookies.html" style="color:var(--groc);">política de cookies</a>.</p>
+  <button class="cookie-btn btn" style="min-height:40px;background:var(--groc);color:#3A2400;border:0;font-weight:700;cursor:pointer;">D'acord</button>
+</div>
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>

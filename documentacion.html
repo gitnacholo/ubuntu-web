@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<script>try{var a=document.documentElement;if(localStorage.getItem('ubuntu-a11y-dark')==='1'){a.classList.add('modo-oscuro')}if(localStorage.getItem('ubuntu-a11y-dys')==='1'){a.classList.add('font-dislexia')}var m=parseInt(localStorage.getItem('ubuntu-a11y-fs'),10);if(m>=12&&m<=24){a.style.fontSize=m+'px'}}catch(e){}</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentació | Associació Ubuntu</title>
+    <meta name="description" content="Estatuts, conveni, plans, memòries, revista i butlletins de l'Associació Educació i Lleure Ubuntu en PDF.">
+    <link rel="icon" type="image/png" href="assets/img/logo/logoubuntuv2.png">
+    <link rel="stylesheet" href="assets/fonts/fonts.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <a class="skip-link" href="#contingut">Salta al contingut principal</a>
+<div class="a11y-bar" role="toolbar" aria-label="Eines d'accessibilitat">
+  <div class="container a11y-bar-inner">
+    <span class="a11y-label" aria-hidden="true">Accessibilitat</span>
+    <button type="button" id="a11y-contrast" aria-pressed="false" aria-label="Canvia entre mode clar i fosc"><svg class="icon-moon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg><svg class="icon-sun" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg><span class="txt-fosc">Fosc</span><span class="txt-clar">Clar</span></button>
+    <button type="button" id="a11y-font-menys" aria-label="Redueix la mida de la lletra">A-</button>
+    <button type="button" id="a11y-font-mes" aria-label="Augmenta la mida de la lletra">A+</button>
+    <button type="button" id="a11y-dislexia" aria-pressed="false">Lletra llegible</button>
+  </div>
+</div>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-inner">
+                <a href="index.html" class="brand" aria-label="Associació Ubuntu - inici">
+                    <img src="assets/img/logo/logoubuntuv2.png" alt="Logo de l'Associació Educació i Lleure Ubuntu" width="44" height="44">
+                    <span><strong>Ubuntu</strong><small>Educació i Lleure</small></span>
+                </a>
+                <nav class="nav-desktop" aria-label="Navegació principal">
+                    <ul class="nav-list">
+                        <li><a href="index.html">Inici</a></li>
+                        <li><a href="qui-som.html">Qui som</a></li>
+                        <li><a href="projectes.html">Projectes</a></li>
+                        <li><a href="voluntariat.html">Voluntariat</a></li>
+                        <li><a href="dons.html">Donacions</a></li>
+                        <li><a href="contacte.html">Contacte</a></li>
+                        <li><a href="colaboradores.html">Colaboradors</a></li>
+                        <li><a href="documentacion.html" aria-current="page">Documentació</a></li>
+                    </ul>
+                    <a class="btn btn-primary" href="dons.html">Dona suport</a>
+                </nav>
+                <button class="nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Obre el menú">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Menú mòbil">
+        <ul>
+            <li><a href="index.html">Inici</a></li>
+            <li><a href="qui-som.html">Qui som</a></li>
+            <li><a href="projectes.html">Projectes</a></li>
+            <li><a href="voluntariat.html">Voluntariat</a></li>
+            <li><a href="dons.html">Donacions</a></li>
+            <li><a href="contacte.html">Contacte</a></li>
+            <li><a href="colaboradores.html">Colaboradors</a></li>
+            <li><a href="documentacion.html" aria-current="page">Documentació</a></li>
+        </ul>
+        <a class="btn btn-primary btn-lg" href="dons.html">Dona suport</a>
+        <a class="btn btn-secondary btn-lg" href="voluntariat.html">Fes-te voluntari/a</a>
+    </nav>
+    <main id="contingut">
+        <section class="page-banner" aria-label="Documentació">
+            <div class="hero-bg"><img src="assets/img/heroes/hero-4.webp" alt="Equip d'Ubuntu en una reunió de treball" loading="lazy"></div>
+            <div class="container">
+                <div class="hero-content">
+                    <h1>Documentació</h1>
+                    <p class="lead">Els documents oficials de l'entitat, en PDF: visualitza'ls o descarrega'ls.</p>
+                    <nav class="breadcrumb" aria-label="Migues de pa"><a href="index.html">Inici</a> / Documentació</nav>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container">
+                <div class="section-head center reveal">
+                    <span class="kicker">Transparència</span>
+                    <h2>Documents oficials de l'entitat</h2>
+                    <p class="lead">Estatuts, conveni, plans, memòries, revista i butlletins tal com apareixen a la web original, allotjats en local per a una lectura ràpida i accessible.</p>
+                </div>
+                <div class="filter-chips reveal" id="doc-filtres" role="group" aria-label="Filtra els documents per categoria">
+                    <button type="button" data-filtre="tots" aria-pressed="true">Tots</button>
+                    <button type="button" data-filtre="entitat" aria-pressed="false">Entitat</button>
+                    <button type="button" data-filtre="laboral" aria-pressed="false">Laboral</button>
+                    <button type="button" data-filtre="igualtat" aria-pressed="false">Igualtat i protecció</button>
+                    <button type="button" data-filtre="formacio" aria-pressed="false">Formació</button>
+                    <button type="button" data-filtre="memoria" aria-pressed="false">Memòries</button>
+                    <button type="button" data-filtre="butlleti" aria-pressed="false">Butlletí</button>
+                    <button type="button" data-filtre="revista" aria-pressed="false">Revista</button>
+                </div>
+                <p class="text-center" id="doc-compte" role="status">43 documents</p>
+                <div class="grid-3 mt-2" id="doc-grau">
+                    <article class="card doc-card doc-vermell reveal" data-cat="entitat">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>0,7 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Entitat</span>
+                            <h3>Estatuts de l'Associació</h3>
+                            <p>Normes fonamentals de l'entitat: finalitats, òrgans de govern i funcionament intern.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/estatuts-ubuntu.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/estatuts-ubuntu.pdf" download="estatuts-ubuntu.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-blau reveal d1" data-cat="laboral">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>0,9 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Laboral</span>
+                            <h3>Conveni col·lectiu 2024</h3>
+                            <p>Marc laboral de referència per a l'equip professional de l'entitat.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/conveni-collectiu-2024.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/conveni-collectiu-2024.pdf" download="conveni-collectiu-2024.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-verd reveal d2" data-cat="igualtat">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>1,4 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Igualtat</span>
+                            <h3>Pla d'igualtat Ubuntu</h3>
+                            <p>Document firmat amb les mesures per garantir la igualtat d'oportunitats entre dones i homes.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/pla-igualtat-ubuntu.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/pla-igualtat-ubuntu.pdf" download="pla-igualtat-ubuntu.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-terrat reveal" data-cat="igualtat">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>2,8 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Protecció</span>
+                            <h3>Política «Kare Yara»</h3>
+                            <p>Política de protecció d'infants i adolescents: entorns segurs en totes les activitats.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/politica-proteccio-infantil-kare-yara.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/politica-proteccio-infantil-kare-yara.pdf" download="politica-proteccio-infantil-kare-yara.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-blau reveal d1" data-cat="laboral">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>0,4 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Laboral</span>
+                            <h3>Protocol d'assetjament laboral</h3>
+                            <p>Procediment firmat de prevenció i actuació davant l'assetjament en l'entorn de treball.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/protocol-assetjament-laboral.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/protocol-assetjament-laboral.pdf" download="protocol-assetjament-laboral.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-verd reveal d2" data-cat="formacio">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>2,1 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Formació</span>
+                            <h3>Pla de formació «Meraki»</h3>
+                            <p>Pla de formació contínua de l'equip professional per al curs 2025-2026.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/pla-formacio-meraki-2025-2026.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/pla-formacio-meraki-2025-2026.pdf" download="pla-formacio-meraki-2025-2026.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-blau reveal" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>4,6 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2025</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2025.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2025.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2025.pdf" download="memoria-general-ubuntu-2025.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-verd reveal d1" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>5,6 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2024</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2024.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2024.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2024.pdf" download="memoria-general-ubuntu-2024.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-terrat reveal d2" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>4,6 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2023</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2023.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2023.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2023.pdf" download="memoria-general-ubuntu-2023.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-vermell reveal" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>4,1 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2022</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2022.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2022.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2022.pdf" download="memoria-general-ubuntu-2022.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-blau reveal d1" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>2,6 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2021</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2021.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2021.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2021.pdf" download="memoria-general-ubuntu-2021.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-verd reveal d2" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>0,8 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2020</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2020.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2020.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2020.pdf" download="memoria-general-ubuntu-2020.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-terrat reveal" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>3,5 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2019</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2019.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2019.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2019.pdf" download="memoria-general-ubuntu-2019.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-vermell reveal d1" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>1,2 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2018</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2018.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2018.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2018.pdf" download="memoria-general-ubuntu-2018.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-blau reveal d2" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>0,8 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2017</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2017.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2017.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2017.pdf" download="memoria-general-ubuntu-2017.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card doc-card doc-verd reveal" data-cat="memoria">
+                        <div class="doc-top" aria-hidden="true"><span class="doc-mark">PDF</span>
+                            <span class="doc-meta"><span class="doc-chip">PDF</span><span>6,0 MB</span></span>
+                        </div>
+                        <div class="card-body">
+                            <span class="card-tag">Memòria</span>
+                            <h3>Memòria general 2016</h3>
+                            <p>Activitats, resultats i impacte de l'entitat durant l'any 2016.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/memoria-general-ubuntu-2016.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/memoria-general-ubuntu-2016.pdf" download="memoria-general-ubuntu-2016.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="revista">
+                        <div class="card-media card-media--portrait"><img src="assets/img/revista/portada-revista-desembre-2025.png" alt="Portada de la Revista Ubuntu de desembre de 2025" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Revista</span>
+                            <h3>Desembre 2025</h3>
+                            <p>Publicació trimestral amb el més destacat del període.</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/docs/revista-ubuntu-desembre-2025.pdf" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/docs/revista-ubuntu-desembre-2025.pdf" download="revista-ubuntu-desembre-2025.pdf">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="revista">
+                        <div class="card-media card-media--portrait"><img src="assets/img/revista/revista-ubuntu-setembre-2024.png" alt="Portada de la Revista Ubuntu (setembre 2024)" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Revista</span>
+                            <h3>Setembre 2024</h3>
+                            <p>Es llegeix en línia al flipbook original (enllaç extern).</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-primary btn-doc" href="https://flipbookpdf.net/web/site/a5bcebe0066e3db173b124f0e8bdb84358a8f27a202510.pdf.html" target="_blank" rel="noopener">Obre el flipbook</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d1" data-cat="revista">
+                        <div class="card-media card-media--portrait"><img src="assets/img/revista/revista-ubuntu-desembre-2024.png" alt="Portada de la Revista Ubuntu (desembre 2024)" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Revista</span>
+                            <h3>Desembre 2024</h3>
+                            <p>Es llegeix en línia al flipbook original (enllaç extern).</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-primary btn-doc" href="https://flipbookpdf.net/web/site/7103351752f9097722d015f55fe0631e9cbc59ac202510.pdf.html" target="_blank" rel="noopener">Obre el flipbook</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d2" data-cat="revista">
+                        <div class="card-media card-media--portrait"><img src="assets/img/revista/revista-ubuntu-abril-2025.png" alt="Portada de la Revista Ubuntu (abril 2025)" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Revista</span>
+                            <h3>Abril 2025</h3>
+                            <p>Es llegeix en línia al flipbook original (enllaç extern).</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-primary btn-doc" href="https://flipbookpdf.net/web/site/7c673a54037b56babca5a28fed46f537ecb9ae8f202510.pdf.html" target="_blank" rel="noopener">Obre el flipbook</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="revista">
+                        <div class="card-media card-media--portrait"><img src="assets/img/revista/revista-ubuntu-juliol-2025.png" alt="Portada de la Revista Ubuntu (juliol 2025)" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Revista</span>
+                            <h3>Juliol 2025</h3>
+                            <p>Es llegeix en línia al flipbook original (enllaç extern).</p>
+                            <div class="doc-actions">
+                                <a class="btn btn-primary btn-doc" href="https://flipbookpdf.net/web/site/4f51256562905ba83375f46ba96b8554a02926a0202510.pdf.html" target="_blank" rel="noopener">Obre el flipbook</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2023-12.jpg" alt="Portada del butlletí de desembre 2023" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Desembre 2023</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2023-12.jpg" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2023-12.jpg" download="butlleti-2023-12.jpg">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d1" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-10.png" alt="Portada del butlletí de octubre 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Octubre 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-10.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-10.png" download="butlleti-2022-10.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d2" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-09.png" alt="Portada del butlletí de setembre 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Setembre 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-09.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-09.png" download="butlleti-2022-09.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-07.png" alt="Portada del butlletí de juliol 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Juliol 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-07.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-07.png" download="butlleti-2022-07.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d1" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-06.png" alt="Portada del butlletí de juny 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Juny 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-06.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-06.png" download="butlleti-2022-06.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d2" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-05.png" alt="Portada del butlletí de maig 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Maig 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-05.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-05.png" download="butlleti-2022-05.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-04.png" alt="Portada del butlletí de abril 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Abril 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-04.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-04.png" download="butlleti-2022-04.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d1" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-03.png" alt="Portada del butlletí de març 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Març 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-03.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-03.png" download="butlleti-2022-03.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d2" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-02.png" alt="Portada del butlletí de febrer 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Febrer 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-02.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-02.png" download="butlleti-2022-02.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2022-01.png" alt="Portada del butlletí de gener 2022" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Gener 2022</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2022-01.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2022-01.png" download="butlleti-2022-01.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d1" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-12.png" alt="Portada del butlletí de desembre 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Desembre 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-12.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-12.png" download="butlleti-2021-12.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d2" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-11.png" alt="Portada del butlletí de novembre 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Novembre 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-11.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-11.png" download="butlleti-2021-11.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-10.png" alt="Portada del butlletí de octubre 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Octubre 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-10.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-10.png" download="butlleti-2021-10.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d1" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-09.png" alt="Portada del butlletí de setembre 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Setembre 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-09.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-09.png" download="butlleti-2021-09.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d2" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-07.png" alt="Portada del butlletí de juliol 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Juliol 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-07.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-07.png" download="butlleti-2021-07.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-06.png" alt="Portada del butlletí de juny 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Juny 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-06.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-06.png" download="butlleti-2021-06.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d1" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-05.png" alt="Portada del butlletí de maig 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Maig 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-05.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-05.png" download="butlleti-2021-05.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d2" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-04.png" alt="Portada del butlletí de abril 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Abril 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-04.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-04.png" download="butlleti-2021-04.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-03.png" alt="Portada del butlletí de març 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Març 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-03.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-03.png" download="butlleti-2021-03.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d1" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-02.png" alt="Portada del butlletí de febrer 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Febrer 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-02.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-02.png" download="butlleti-2021-02.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal d2" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2021-01.png" alt="Portada del butlletí de gener 2021" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Gener 2021</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2021-01.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2021-01.png" download="butlleti-2021-01.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="card reveal" data-cat="butlleti">
+                        <div class="card-media card-media--portrait"><img src="assets/img/butlleti/butlleti-2020-12.png" alt="Portada del butlletí de desembre 2020" loading="lazy"></div>
+                        <div class="card-body">
+                            <span class="card-tag">Butlletí</span>
+                            <h3>Desembre 2020</h3>
+                            <div class="doc-actions">
+                                <a class="btn btn-secondary btn-doc" href="assets/img/butlleti/butlleti-2020-12.png" target="_blank" rel="noopener">Visualitza</a>
+                                <a class="btn btn-primary btn-doc" href="assets/img/butlleti/butlleti-2020-12.png" download="butlleti-2020-12.png">Descarrega</a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="mt-4 text-center reveal"><a class="btn btn-primary" href="mailto:ubuntu@associacioubuntu.org?subject=Consulta%20sobre%20documentaci%C3%B3">Demana un document per correu</a></div>
+            </div>
+        </section>
+    </main>
+    <script>
+    (function () {
+      var grup = document.getElementById('doc-filtres');
+      if (!grup) return;
+      var botons = grup.querySelectorAll('button');
+      var targetes = document.querySelectorAll('#doc-grau > article');
+      var compte = document.getElementById('doc-compte');
+      function aplica(filtre) {
+        var n = 0;
+        targetes.forEach(function (t) {
+          var ok = filtre === 'tots' || t.getAttribute('data-cat') === filtre;
+          t.hidden = !ok;
+          if (ok) n++;
+        });
+        if (compte) compte.textContent = n + (n === 1 ? ' document' : ' documents');
+      }
+      botons.forEach(function (b) {
+        b.addEventListener('click', function () {
+          botons.forEach(function (x) { x.setAttribute('aria-pressed', 'false'); });
+          b.setAttribute('aria-pressed', 'true');
+          aplica(b.getAttribute('data-filtre'));
+        });
+      });
+      aplica('tots');
+    })();
+    </script>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div>
+                    <h3>Associació Educació i Lleure Ubuntu</h3>
+                    <p>“Jo sóc perquè tu ets”. Oci educatiu, acompanyament familiar i comunitat
+                    al barri de Ciutat Meridiana des de l'any 2008.</p>
+                    <p>Entitat sense ànim de lucre registrada amb el nº 49677, declarada d'utilitat pública (Llei 49/2002).</p>
+                    <address style="font-style:normal;">
+                      C/ Vallcivera, 24-26 · 08033 Barcelona<br>
+                      <a href="mailto:ubuntu@associacioubuntu.org">ubuntu@associacioubuntu.org</a><br>
+                      <a href="tel:+34620015846">+34 620 01 58 46</a>
+                    </address>
+                </div>
+                <div>
+                    <h3>Enllaços ràpids</h3>
+                    <ul>
+                        <li><a href="qui-som.html">Qui som</a></li>
+                        <li><a href="projectes.html">Projectes</a></li>
+                        <li><a href="voluntariat.html">Voluntariat i pràctiques</a></li>
+                        <li><a href="dons.html">Donacions i socis</a></li>
+                        <li><a href="contacte.html">Contacte</a></li>
+                        <li><a href="memories-anuals.html">Memòries i revista</a></li>
+                        <li><a href="colaboradores.html">Colaboradors</a></li>
+                        <li><a href="documentacion.html">Documentació</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Projectes</h3>
+                    <ul>
+                        <li><a href="cau.html">CAU</a></li>
+                        <li><a href="centre-obert.html">Centre Obert</a></li>
+                        <li><a href="trampoli.html">Trampolí</a></li>
+                        <li><a href="espiral.html">Espiral</a></li>
+                        <li><a href="belombe.html">Belombe</a></li>
+                        <li><a href="metanoia.html">Metanoia</a></li>
+                        <li><a href="xarxa-comunitaria.html">Xarxa comunitària</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>La teva ajuda importa</h3>
+                    <div class="footer-cta">
+                        <p>Amb el teu donatiu, més infants de la Zona Nord tindran ocio educatiu cada setmana.</p>
+                        <a class="btn btn-white btn-primary" style="background:#fff;color:var(--vermell-fosc);" href="dons.html">Dona suport</a>
+                    </div>
+                    <h3 class="mt-3">Segueix-nos</h3>
+
+                    <div class="footer-social">
+                        <a href="https://www.facebook.com/associacioubuntu" aria-label="Facebook de l'Associació Ubuntu" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+                        <a href="https://www.instagram.com/associacioubuntu" aria-label="Instagram de l'Associació Ubuntu" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
+                        <a href="canal-de-youtube.html" aria-label="Canal de YouTube de l'Associació Ubuntu"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19C0 8.07 0 12 0 12s0 3.93.5 5.81a3.02 3.02 0 0 0 2.12 2.14c1.88.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14C24 15.93 24 12 24 12s0-3.93-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z"/></svg></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <span>© 2026 Associació Educació i Lleure Ubuntu</span>
+                <span class="registro">Registre d'associacions nº 49677</span>
+                <span>
+                    <a href="politica-privacitat.html">Privacitat</a> ·
+                    <a href="aviso-legal.html">Avís legal</a> ·
+                    <a href="politica-cookies.html">Cookies</a> ·
+                    <a href="accessibilitat.html">Accessibilitat</a>
+                </span>
+            </div>
+        </div>
+    </footer>
+    <div class="cookie-notice" id="cookieNotice" role="dialog" aria-label="Avís de cookies" style="display:none;position:fixed;bottom:1rem;left:1rem;right:1rem;z-index:70;background:#241B12;color:#fff;border-radius:14px;padding:1rem 1.3rem;max-width:640px;margin-inline:auto;box-shadow:0 10px 30px rgba(0,0,0,.35);">
+        <p style="margin:0 0 .7rem;font-size:.9rem;">Aquest web utilitza cookies tècniques per millorar la teva experiència. Pots llegir la <a href="politica-cookies.html" style="color:var(--groc);">política de cookies</a>.</p>
+        <button class="cookie-btn btn" style="min-height:40px;background:var(--groc);color:#3A2400;border:0;font-weight:700;cursor:pointer;">D'acord</button>
+    </div>
+    <script src="assets/js/main.js" defer></script>
+</body>
+</html>
