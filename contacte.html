@@ -80,8 +80,8 @@
         <div class="reveal">
           <span class="kicker" style="display:inline-block;font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--vermell);background:var(--vermell-suau);padding:.35em .9em;border-radius:999px;margin-bottom:var(--sp-2);">Contacte</span>
           <h2>Parlem?</h2>
-          <!-- Formulari funcional amb Formspree -->
-          <form class="form-grid" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" aria-describedby="ct-note">
+<!-- Formulari funcional amb PHP propi -->
+          <form class="form-grid" action="enviar.php" method="POST" aria-describedby="ct-note">
             <div class="field"><label for="c-nom">Nom</label><input id="c-nom" name="nom" type="text" autocomplete="name" required></div>
             <div class="field"><label for="c-mail">Correu electrònic</label><input id="c-mail" name="email" type="email" autocomplete="email" required></div>
             <div class="field full"><label for="c-assumpte">Assumpte</label>
@@ -94,11 +94,11 @@
               </select>
             </div>
             <div class="field full"><label for="c-msg">Missatge</label><textarea id="c-msg" name="missatge" required></textarea></div>
-            <input type="hidden" name="_next" value="gràcies.html">
             <input type="hidden" name="_subject" value="Nou contacte des de la web Ubuntu">
+            <input type="hidden" name="_next" value="gracias.html">
             <div class="full">
               <button class="btn btn-primary btn-lg" type="submit">Enviar missatge</button>
-              <p class="mock-note mt-2" id="ct-note">Les dades s'enviaran a ubuntu@associacioubuntu.org via Formspree.</p>
+              <p class="mock-note mt-2" id="ct-note">Les dades s'enviaran a ubuntu@associacioubuntu.org.</p>
             </div>
           </form>
         </div>

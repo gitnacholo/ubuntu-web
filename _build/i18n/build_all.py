@@ -8,26 +8,7 @@ Uso típico tras editar el catalán o los glosarios:
 """
 import os
 import sys
-
-HERE = os.path.dirname(os.path.abspath(__file__))
-if HERE not in sys.path:
-    sys.path.insert(0, HERE)
-
-from i18n_gloss import PAGES  # noqa: E402
-from i18n_tool import cmd_build  # noqa: E402
-
-lang = sys.argv[1] if len(sys.argv) > 1 else "es"
-assert lang in ("es", "en", "ca"), "uso: build_all.py es|en|ca"
-#!/usr/bin/env python3
-"""Reconstruye las 22 páginas en un idioma: python3 build_all.py es|en|ca.
-
-Uso típico tras editar el catalán o los glosarios:
-  python3 i18n_norm.py missing es   # debe dar 0
-  python3 i18n_norm.py gen-trans es
-  python3 build_all.py es
-"""
-import os
-import sys
+import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 if HERE not in sys.path:
@@ -54,14 +35,36 @@ def fix_contact_form(page_path, lang):
         html = f.read()
     
     config = CONTACT_FORM_CONFIG[lang]
-    # Corregir _next
-    html = html.replace('name="_next" value="gracias.html"', f'name="_next" value="{config["_next"]}"')
-    html = html.replace('name="_next" value="thank-you.html"', f'name="_next" value="{config["_next"]}"')
-    html = html.replace('name="_next" value="/gracias.html"', f'name="_next" value="{config["_next"]}"')
-    # Corregir _subject
-    html = html.replace('name="_subject" value="Nou contacte des de la web Ubuntu"', f'name="_subject" value="{config["_subject"]}"')
-    html = html.replace('name="_subject" value="New contact from Ubuntu website"', f'name="_subject" value="{config["_subject"]}"')
-    html = html.replace('name="_subject" value="Nuevo contacto desde la web Ubuntu"', f'name="_subject" value="{config["_subject"]}"')
+    
+    # Corregir/agregar _next
+    if 'name="_next"' not in html:
+        # Agregar _next después del último input hidden o antes del botón submit
+        html = html.replace(
+            '<div class="full">',
+            f'<input type="hidden" name="_next" value="{config["_next"]}">\n            <div class="full">'
+        )
+    else:
+        # Corregir _next existente
+        html = re.sub(
+            r'name="_next" value="[^"]*"',
+            f'name="_next" value="{config["_next"]}"',
+            html
+        )
+    
+    # Corregir/agregar _subject
+    if 'name="_subject"' not in html:
+        # Agregar _subject después del _next o antes del botón submit
+        html = html.replace(
+            f'name="_next" value="{config["_next"]}">',
+            f'name="_next" value="{config["_next"]}">\n            <input type="hidden" name="_subject" value="{config["_subject"]}">'
+        )
+    else:
+        # Corregir _subject existente
+        html = re.sub(
+            r'name="_subject" value="[^"]*"',
+            f'name="_subject" value="{config["_subject"]}"',
+            html
+        )
     
     with open(page_path, "w", encoding="utf-8", newline="") as f:
         f.write(html)
