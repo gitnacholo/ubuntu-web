@@ -1386,7 +1386,7 @@
   ]
  },
  "ubuntu@associacioubuntu.org": {
-  "n": 25,
+  "n": 24,
   "pages": [
    "accessibilitat.html",
    "acol-3.html",
@@ -3957,7 +3957,7 @@
    "contacte.html:text:div/button"
   ]
  },
- "Maqueta visual: el formulari no envia dades en la versió estàtica.\n              Escriviu a ": {
+ "Les dades s'enviaran a ubuntu@associacioubuntu.org via Formspree.": {
   "n": 1,
   "pages": [
    "contacte.html"
