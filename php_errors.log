@@ -27,3 +27,4 @@ Stack trace:
   thrown in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1993
 [28-Oct-2026 11:54:52 UTC] Error enviando email: Extension missing: openssl
 [28-Oct-2026 11:57:47 UTC] Error enviando email: Extension missing: openssl
+[28-Oct-2026 12:03:10 UTC] Error enviando email: Extension missing: openssl

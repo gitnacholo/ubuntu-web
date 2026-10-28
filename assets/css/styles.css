@@ -19,7 +19,7 @@
   --blau-suau: #E8F0F7;
   --terrat: #7A4A32;
   --tinta: #2A2018;          /* text principal */
-  --tinta-2: #5B5248;        /* text secundari */
+  --tinta-2: #4A4038;        /* text secundari - WCAG AA 4.7:1 sobre --fons */
   --fons: #FDFAF5;           /* crema */
   --fons-2: #F5EEE4;
   --blanc: #FFFFFF;
