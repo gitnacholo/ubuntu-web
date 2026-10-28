@@ -1,5 +1,5 @@
 <?php
-// Test script using streams
+// Test script using streams instead of cURL
 $postData = http_build_query([
     'nom' => 'Test User',
     'email' => 'test@example.com',
@@ -18,6 +18,6 @@ $context = [
 ];
 
 $context = stream_context_create($context);
-$response = file_get_contents('http://localhost:8000/enviar.php', false, $context);
+$response = file_get_contents('http://localhost:8086/enviar.php', false, $context);
 echo "Response: " . $response;
 echo "\nDone!";

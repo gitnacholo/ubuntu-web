@@ -41,8 +41,8 @@ use PHPMailer\PHPMailer\Exception;
 $config = [
     'host'       => 'mail.associacioubuntu.org',  // Cambia por tu servidor SMTP real
     'port'       => 587,                           // 587 (STARTTLS) o 465 (SSL)
-    'username'   => 'info@associacioubuntu.org',
-    'password'   => 'JSPTE2008',
+    'username'   => 'hola@associacioubuntu.org',
+    'password'   => 'JSPTE2008*',
     'encryption' => 'tls',                         // 'tls' para 587, 'ssl' para 465
     'from_email' => 'info@associacioubuntu.org',
     'from_name'  => 'Associació Ubuntu Web',

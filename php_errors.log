@@ -28,3 +28,6 @@ Stack trace:
 [28-Oct-2026 11:54:52 UTC] Error enviando email: Extension missing: openssl
 [28-Oct-2026 11:57:47 UTC] Error enviando email: Extension missing: openssl
 [28-Oct-2026 12:03:10 UTC] Error enviando email: Extension missing: openssl
+[28-Oct-2026 19:16:49 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\enviar.php on line 54
+[28-Oct-2026 19:16:49 UTC] PHP Warning:  http_response_code(): Cannot set response code - headers already sent (output started at C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\enviar.php:54) in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\enviar.php on line 55
+[28-Oct-2026 19:16:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\enviar.php:54) in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\enviar.php on line 56
