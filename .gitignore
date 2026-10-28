@@ -1,3 +1,26 @@
 __pycache__/
 *.pyc
 missing_*.txt
+
+# PHP / credenciales
+.env
+.env.*
+!.env.example
+config.local.php
+*.pem
+*.key
+
+# Librerias (se suben al VPS por rsync, no por git)
+vendor/
+
+# Logs
+*.log
+logs/
+php_errors.log
+
+# Backups locales
+*.bak
+enviar.php.bak
+
+# Build
+_build/
