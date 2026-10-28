@@ -1,0 +1,29 @@
+[28-Oct-2026 11:32:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\SMTP" not found in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php:1993
+Stack trace:
+#0 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(2149): PHPMailer\PHPMailer\PHPMailer->getSMTPInstance()
+#1 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(2062): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#2 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(1689): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#3 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#4 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\enviar.php(146): PHPMailer\PHPMailer\PHPMailer->send()
+#5 {main}
+  thrown in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1993
+[28-Oct-2026 11:52:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\SMTP" not found in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php:1993
+Stack trace:
+#0 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(2149): PHPMailer\PHPMailer\PHPMailer->getSMTPInstance()
+#1 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(2062): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#2 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(1689): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#3 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#4 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\enviar.php(147): PHPMailer\PHPMailer\PHPMailer->send()
+#5 {main}
+  thrown in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1993
+[28-Oct-2026 11:52:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\SMTP" not found in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php:1993
+Stack trace:
+#0 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(2149): PHPMailer\PHPMailer\PHPMailer->getSMTPInstance()
+#1 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(2062): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#2 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(1689): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#3 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#4 C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\enviar.php(147): PHPMailer\PHPMailer\PHPMailer->send()
+#5 {main}
+  thrown in C:\Users\NachoPC\HERMES\KlonKlonubuntu\renew001\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1993
+[28-Oct-2026 11:54:52 UTC] Error enviando email: Extension missing: openssl
+[28-Oct-2026 11:57:47 UTC] Error enviando email: Extension missing: openssl
