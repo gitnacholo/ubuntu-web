@@ -7,7 +7,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 ini_set('log_errors', 1);
-ini_set('error_log', __DIR__ . '/../logs/php_errors.log');
+ini_set('error_log', __DIR__ . '/../private/php_errors.log');
 
 // ── Cargar .env ────────────────────────────────────────────────
 function loadEnv(string $file): array {
@@ -93,6 +93,7 @@ $cuerpo .= 'Fecha: '         . date('Y-m-d H:i:s') . "\n";
 $mail = new PHPMailer(true);
 try {
     $mail->isSMTP();
+
     $mail->Host       = $config['SMTP_HOST'];
     $mail->SMTPAuth   = true;
     $mail->Username   = $config['SMTP_USER'];

@@ -80,8 +80,8 @@
         <div class="reveal">
           <span class="kicker" style="display:inline-block;font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--vermell);background:var(--vermell-suau);padding:.35em .9em;border-radius:999px;margin-bottom:var(--sp-2);">Contacte</span>
           <h2>Parlem?</h2>
-<!-- Formulari funcional amb PHP propi -->
-          <form class="form-grid" action="enviar.php" method="POST" aria-describedby="ct-note">
+          <!-- MAQUETA ESTÀTICA: aquest formulari no envia dades. -->
+          <form class="form-grid" action="/enviar.php" method="POST"  aria-describedby="ct-note">
             <div class="field"><label for="c-nom">Nom</label><input id="c-nom" name="nom" type="text" autocomplete="name" required></div>
             <div class="field"><label for="c-mail">Correu electrònic</label><input id="c-mail" name="email" type="email" autocomplete="email" required></div>
             <div class="field full"><label for="c-assumpte">Assumpte</label>
@@ -94,11 +94,10 @@
               </select>
             </div>
             <div class="field full"><label for="c-msg">Missatge</label><textarea id="c-msg" name="missatge" required></textarea></div>
-            <input type="hidden" name="_subject" value="Nou contacte des de la web Ubuntu">
-            <input type="hidden" name="_next" value="gracias.html">
             <div class="full">
               <button class="btn btn-primary btn-lg" type="submit">Enviar missatge</button>
-              <p class="mock-note mt-2" id="ct-note">Les dades s'enviaran a ubuntu@associacioubuntu.org.</p>
+              <p class="mock-note mt-2" id="ct-note">Maqueta visual: el formulari no envia dades en la versió estàtica.
+              Escriviu a <a href="mailto:ubuntu@associacioubuntu.org">ubuntu@associacioubuntu.org</a>.</p>
             </div>
           </form>
         </div>
@@ -200,5 +199,16 @@
   <button class="cookie-btn btn" style="min-height:40px;background:var(--groc);color:#3A2400;border:0;font-weight:700;cursor:pointer;">D'acord</button>
 </div>
 <script src="assets/js/main.js" defer></script>
+<script>
+(function(){
+  var p = new URLSearchParams(location.search);
+  if (p.has('enviado')) {
+    alert('Missatge enviat correctament. Gràcies!');
+  } else if (p.has('error')) {
+    alert('Error: ' + (p.get('error') || 'desconegut'));
+  }
+})();
+</script>
+
 </body>
 </html>
